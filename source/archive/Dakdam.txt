@@ -1,0 +1,30 @@
+Dakdam italics: check change in y-advance with nrsi only Khmer or all?
+italics: all Khmer and punctuation shifted by R=-150 B=-131 (see more details below). Italics angle -14.
+
+8.4.2019
+Shifted ALL glyphs in the italics fonts instead of just Khmer and punctuation. Italics font versions are now 7.200
+
+28.3.2019
+Created all Dakdam and DakdamYY with FL5, not yet distributed. italics fonts have maxinstructions problem, all fonts have another problem in validator.
+DakdamYY-R FL file corrupted. Recreated file.
+Khmer Dakdam b+bi: added the missing U+17a4.
+All Dakdam source files have the latest license and copyright info as of 27 March 2019.
+
+25.3.2019
+Changed name 'Khmer Dakdam1' to 'Khmer Dakdam YY'. (YY is the Unicode name for 17ba). The YY has an unusually large distance between the two tails of the glyph. This was done on request of the Kuy translator for easier visual distinction of this glyph from 17b8 & 17b9.
+Created 'Khmer Dakdam YY' in r,i,b,bi.
+
+22.2.2018
+italics regular and regular:
+created the correct forms of uni179517B6 and uni179517C5.right in all three font files. But the new fonts have not yet been compiled and distributed.
+
+Created 'Khmer Dakdam1' version for Kui, so far only regular. In this version all variations of 17BA have an increased separation of the two tails. (There was an earlier version with some faults in the above corrected glyphs and also in the coeng-ha.)
+
+17.11.2016
+italics regular: 
+a) 14 degrees slant
+b) all Khmer and all punctuation usually used by Khmer have been shifted 150pt to the left (bold: 131) (Punct: 21,22,27-2f,3a-3f,5b-5e,7b-7e,2018-9,201c-d,2039-a,20ab,20bb)
+
+21.1.2016
+v7.101 corrected 17dd variants, no smarts added yet
+v7.100 added ot + gr
