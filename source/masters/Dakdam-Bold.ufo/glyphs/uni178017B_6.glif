@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni178017B6" format="2">
   <advance width="2250"/>
+  <guideline x="513" y="0" angle="90"/>
+  <guideline x="1433" y="0" angle="90"/>
+  <guideline x="1333" y="0" angle="90"/>
+  <guideline x="1075" y="0" angle="90"/>
   <anchor x="1312" y="0" name="L"/>
   <anchor x="1312" y="1440" name="U"/>
   <outline>
@@ -79,8 +83,4 @@
       <point x="262" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="513" y="0"/>
-  <guideline angle="90" x="1433" y="0"/>
-  <guideline angle="90" x="1333" y="0"/>
-  <guideline angle="90" x="1075" y="0"/>
 </glyph>

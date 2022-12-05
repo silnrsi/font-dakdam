@@ -160,80 +160,80 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d9317f6a6187fd2b11069a21f1ee256b0091ab58e7366d700ff239f981cc3b40e571e9c6f25e8fc764caec38e87e6742486ca0d2a56100a801a4b934fc779982</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 1937 300</string>
-          <string>hstem -733 -20</string>
-          <string>vstem 2687 300</string>
-          <string>hstem -1200 131</string>
-          <string>vstem 1525 300</string>
-          <string>hstem 465 105</string>
-          <string>hstem 90 150</string>
-          <string>hstem -559 -20</string>
-          <string>vstem 550 350</string>
-          <string>hstem -409 -20</string>
-          <string>vstem 162 300</string>
-          <string>vstem 987 300</string>
-          <string>hstem 1608 158</string>
-          <string>hstem 2098 -21</string>
-          <string>hstem 2133 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 1937 300</string>
+              <string>hstem -733 -20</string>
+              <string>vstem 2687 300</string>
+              <string>hstem -1200 131</string>
+              <string>vstem 1525 300</string>
+              <string>hstem 465 105</string>
+              <string>hstem 90 150</string>
+              <string>hstem -559 -20</string>
+              <string>vstem 550 350</string>
+              <string>hstem -409 -20</string>
+              <string>vstem 162 300</string>
+              <string>vstem 987 300</string>
+              <string>hstem 1608 158</string>
+              <string>hstem 2098 -21</string>
+              <string>hstem 2133 -20</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hr01</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -1200 94</string>
+              <string>vstem 987 300</string>
+              <string>hstem 90 150</string>
+              <string>vstem 162 300</string>
+              <string>hstem -559 -20</string>
+              <string>vstem 1626 375</string>
+              <string>hstem 2098 -21</string>
+              <string>hstem 1608 158</string>
+              <string>hstem 2133 -20</string>
+              <string>hstem 465 105</string>
+              <string>hstem -733 -20</string>
+              <string>hstem -409 -20</string>
+              <string>vstem 550 350</string>
+              <string>vstem 2687 300</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hr02</string>
+            <key>stems</key>
+            <array>
+              <string>vstem 1937 300</string>
+              <string>hstem -1200 94</string>
+              <string>hstem 90 150</string>
+              <string>hstem 465 105</string>
+              <string>hstem 1608 158</string>
+              <string>hstem -733 -20</string>
+              <string>hstem -559 -20</string>
+              <string>hstem -409 -20</string>
+              <string>hstem 2098 -21</string>
+              <string>hstem 2133 -20</string>
+              <string>vstem 162 300</string>
+              <string>vstem 550 350</string>
+              <string>vstem 987 300</string>
+              <string>vstem 1525 300</string>
+              <string>vstem 2687 300</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d9317f6a6187fd2b11069a21f1ee256b0091ab58e7366d700ff239f981cc3b40e571e9c6f25e8fc764caec38e87e6742486ca0d2a56100a801a4b934fc779982</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1200 94</string>
-          <string>vstem 987 300</string>
-          <string>hstem 90 150</string>
-          <string>vstem 162 300</string>
-          <string>hstem -559 -20</string>
-          <string>vstem 1626 375</string>
-          <string>hstem 2098 -21</string>
-          <string>hstem 1608 158</string>
-          <string>hstem 2133 -20</string>
-          <string>hstem 465 105</string>
-          <string>hstem -733 -20</string>
-          <string>hstem -409 -20</string>
-          <string>vstem 550 350</string>
-          <string>vstem 2687 300</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1937 300</string>
-          <string>hstem -1200 94</string>
-          <string>hstem 90 150</string>
-          <string>hstem 465 105</string>
-          <string>hstem 1608 158</string>
-          <string>hstem -733 -20</string>
-          <string>hstem -559 -20</string>
-          <string>hstem -409 -20</string>
-          <string>hstem 2098 -21</string>
-          <string>hstem 2133 -20</string>
-          <string>vstem 162 300</string>
-          <string>vstem 550 350</string>
-          <string>vstem 987 300</string>
-          <string>vstem 1525 300</string>
-          <string>vstem 2687 300</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

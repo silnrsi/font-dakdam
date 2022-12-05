@@ -37,10 +37,4 @@
       <point x="1097" y="1326" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <string>Glyphs had to be decomposed because AAT cannot make compositions with composites.</string>
-  </dict>
-  </lib>
 </glyph>

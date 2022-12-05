@@ -63,10 +63,4 @@
       <point x="295" y="688" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <string>with other coeng</string>
-  </dict>
-  </lib>
 </glyph>

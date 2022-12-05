@@ -2,6 +2,8 @@
 <glyph name="uni1794" format="2">
   <advance width="1476"/>
   <unicode hex="1794"/>
+  <guideline x="0" y="1651" angle="329.036"/>
+  <guideline x="0" y="1431" angle="329.036"/>
   <anchor x="1231" y="0" name="L"/>
   <anchor x="1231" y="1440" name="U"/>
   <anchor x="763" y="0" name="lm"/>
@@ -96,6 +98,4 @@
       <point x="841" y="112"/>
     </contour>
   </outline>
-  <guideline angle="329.036" x="-0" y="1651"/>
-  <guideline angle="329.036" x="-0" y="1431"/>
 </glyph>

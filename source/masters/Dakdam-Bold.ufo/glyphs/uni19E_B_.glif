@@ -2,6 +2,7 @@
 <glyph name="uni19EB" format="2">
   <advance width="2660"/>
   <unicode hex="19EB"/>
+  <guideline x="1312" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="552" y="1278" type="curve" smooth="yes"/>
@@ -127,53 +128,52 @@
       <point x="1356" y="-131" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="90" x="1312" y="0"/>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>cb5dda3e966fca639d21f6f3b3598f87ff15b57256b75077e6870fe3a8093acf13e42b03f56dd9998eed108bb6a8ed4e6f0bfe842675aecd55e21571bdb130ea</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 1278 150</string>
-          <string>vstem 520 350</string>
-          <string>vstem 132 300</string>
-          <string>hstem 1927 150</string>
-          <string>vstem 957 300</string>
-          <string>hstem 637 94</string>
-          <string>vstem 1790 350</string>
-          <string>vstem 1402 300</string>
-          <string>vstem 2227 300</string>
-          <string>hstem -1179 -21</string>
-          <string>hstem -229 158</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1278 150</string>
+              <string>vstem 520 350</string>
+              <string>vstem 132 300</string>
+              <string>hstem 1927 150</string>
+              <string>vstem 957 300</string>
+              <string>hstem 637 94</string>
+              <string>vstem 1790 350</string>
+              <string>vstem 1402 300</string>
+              <string>vstem 2227 300</string>
+              <string>hstem -1179 -21</string>
+              <string>hstem -229 158</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hr01</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -1179 -21</string>
+              <string>vstem 1356 375</string>
+              <string>hstem -229 158</string>
+              <string>hstem 637 94</string>
+              <string>hstem 1278 150</string>
+              <string>hstem 1927 150</string>
+              <string>vstem 132 300</string>
+              <string>vstem 520 350</string>
+              <string>vstem 957 300</string>
+              <string>vstem 1790 350</string>
+              <string>vstem 2227 300</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>cb5dda3e966fca639d21f6f3b3598f87ff15b57256b75077e6870fe3a8093acf13e42b03f56dd9998eed108bb6a8ed4e6f0bfe842675aecd55e21571bdb130ea</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1179 -21</string>
-          <string>vstem 1356 375</string>
-          <string>hstem -229 158</string>
-          <string>hstem 637 94</string>
-          <string>hstem 1278 150</string>
-          <string>hstem 1927 150</string>
-          <string>vstem 132 300</string>
-          <string>vstem 520 350</string>
-          <string>vstem 957 300</string>
-          <string>vstem 1790 350</string>
-          <string>vstem 2227 300</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

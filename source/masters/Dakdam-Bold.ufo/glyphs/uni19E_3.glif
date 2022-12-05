@@ -2,6 +2,7 @@
 <glyph name="uni19E3" format="2">
   <advance width="1840"/>
   <unicode hex="19E3"/>
+  <guideline x="900" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="170" y="743" type="line"/>
@@ -83,43 +84,42 @@
       <point x="590" y="982"/>
     </contour>
   </outline>
-  <guideline angle="90" x="900" y="0"/>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dc3d6f0bac138741db13b7da8f207e536f28341fafbfa30234620607070e72703df00915f243333ec0970f08876070f83783a32a4c4c9005af2c94c4c4d9a40d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 170 300</string>
-          <string>hstem 1946 131</string>
-          <string>vstem 770 300</string>
-          <string>vstem 1370 300</string>
-          <string>hstem -1179 -21</string>
-          <string>hstem -229 158</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 170 300</string>
+              <string>hstem 1946 131</string>
+              <string>vstem 770 300</string>
+              <string>vstem 1370 300</string>
+              <string>hstem -1179 -21</string>
+              <string>hstem -229 158</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hr01</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -1179 -21</string>
+              <string>vstem 926 375</string>
+              <string>hstem -229 158</string>
+              <string>vstem 170 300</string>
+              <string>hstem 1946 131</string>
+              <string>vstem 1370 300</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>dc3d6f0bac138741db13b7da8f207e536f28341fafbfa30234620607070e72703df00915f243333ec0970f08876070f83783a32a4c4c9005af2c94c4c4d9a40d</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1179 -21</string>
-          <string>vstem 926 375</string>
-          <string>hstem -229 158</string>
-          <string>vstem 170 300</string>
-          <string>hstem 1946 131</string>
-          <string>vstem 1370 300</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

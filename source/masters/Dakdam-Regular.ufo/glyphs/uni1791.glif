@@ -85,10 +85,4 @@
       <point x="869" y="652" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>1/9/10 reduced leading space by 20</real>
-  </dict>
-  </lib>
 </glyph>

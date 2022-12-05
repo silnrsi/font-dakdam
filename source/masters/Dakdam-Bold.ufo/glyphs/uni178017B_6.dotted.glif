@@ -200,10 +200,4 @@
       <point x="1150" y="1360" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <string>uni178017B6.dash</string>
-  </dict>
-  </lib>
 </glyph>

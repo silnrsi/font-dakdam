@@ -115,10 +115,4 @@
       <point x="841" y="112"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <string>ligature new, different from others</string>
-  </dict>
-  </lib>
 </glyph>

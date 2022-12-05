@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17D0.a" format="2">
+  <guideline x="450" y="0" angle="90"/>
   <anchor x="-188" y="2287" name="U"/>
   <anchor x="-188" y="1440" name="_U"/>
   <outline>
@@ -45,5 +46,4 @@
       <point x="445" y="1977"/>
     </contour>
   </outline>
-  <guideline angle="90" x="450" y="0"/>
 </glyph>
