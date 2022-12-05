@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17CE.a" format="2">
+  <anchor x="-188" y="2059" name="U"/>
+  <anchor x="-188" y="1440" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-469" y="1590" type="line"/>
+      <point x="-469" y="1740" type="line"/>
+      <point x="-319" y="1740" type="line"/>
+      <point x="-319" y="1947" type="line"/>
+      <point x="-469" y="1947" type="line"/>
+      <point x="-469" y="2097" type="line"/>
+      <point x="-731" y="2097" type="line"/>
+      <point x="-731" y="1947" type="line"/>
+      <point x="-881" y="1947" type="line"/>
+      <point x="-881" y="1740" type="line"/>
+      <point x="-731" y="1740" type="line"/>
+      <point x="-731" y="1590" type="line"/>
+    </contour>
+  </outline>
+</glyph>
