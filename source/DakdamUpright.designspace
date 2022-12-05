@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
     <axes>
-        <axis default="400.0" maximum="900.0" minimum="200.0" name="weight" tag="wght">
+        <axis default="400.0" maximum="700.0" minimum="400.0" name="weight" tag="wght">
             <map input="400.0" output="188.0" />
             <map input="700.0" output="300.0" />
             <labelname xml:lang="en">Weight</labelname>
@@ -34,6 +34,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
+    </sources>
     <instances>
         <instance familyname="Dakdam" filename="instances/Dakdam-Regular.ufo" name="Dakdam Regular" stylemapfamilyname="Dakdam" stylemapstylename="regular" stylename="Regular" postscriptfontname="Dakdam-Regular">
             <location>
@@ -53,4 +54,5 @@
             <info />
             <kerning />
         </instance>
+    </instances>
 </designspace>
