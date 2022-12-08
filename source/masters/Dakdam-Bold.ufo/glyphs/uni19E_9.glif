@@ -2,7 +2,7 @@
 <glyph name="uni19E9" format="2">
   <advance width="1390"/>
   <unicode hex="19E9"/>
-  <guideline x="750" y="0" angle="90"/>
+  <guideline x="750"/>
   <outline>
     <contour>
       <point x="171" y="1117" type="curve" smooth="yes"/>
@@ -113,67 +113,4 @@
       <point x="786" y="-131" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 171 300</string>
-              <string>hstem 637 165</string>
-              <string>hstem 884 375</string>
-              <string>hstem -229 158</string>
-              <string>hstem 1886 191</string>
-              <string>hstem 1739 -20</string>
-              <string>hstem 2330 -21</string>
-              <string>hstem 2403 -20</string>
-              <string>hstem -1179 -21</string>
-              <string>vstem 786 375</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr01</string>
-            <key>stems</key>
-            <array>
-              <string>vstem 332 290</string>
-              <string>hstem 1886 191</string>
-              <string>hstem 1739 -20</string>
-              <string>vstem 857 290</string>
-              <string>hstem 2330 -21</string>
-              <string>hstem 2403 -20</string>
-              <string>hstem -229 158</string>
-              <string>hstem 637 165</string>
-              <string>hstem 884 375</string>
-              <string>hstem -1179 -21</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr02</string>
-            <key>stems</key>
-            <array>
-              <string>vstem 171 300</string>
-              <string>hstem -1179 -21</string>
-              <string>vstem 786 375</string>
-              <string>hstem -229 158</string>
-              <string>hstem 637 165</string>
-              <string>hstem 884 375</string>
-              <string>hstem 1886 191</string>
-              <string>hstem 1739 -20</string>
-              <string>hstem 2330 -21</string>
-              <string>hstem 2403 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>fb66dafc6d33ac859e99482d5c10f091acf5d98a2634c927bc0149010933d526dd8df9d978c6030f36c378ff7b0e795240a5e0a62ed6108bef5dcd7e4da85c58</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

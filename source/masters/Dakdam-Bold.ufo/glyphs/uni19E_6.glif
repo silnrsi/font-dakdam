@@ -2,7 +2,7 @@
 <glyph name="uni19E6" format="2">
   <advance width="1390"/>
   <unicode hex="19E6"/>
-  <guideline x="787" y="0" angle="90"/>
+  <guideline x="787"/>
   <outline>
     <contour>
       <point x="1242" y="1312" type="curve" smooth="yes"/>
@@ -89,61 +89,4 @@
       <point x="786" y="-131" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 942 300</string>
-              <string>hstem 1829 158</string>
-              <string>vstem 399 277</string>
-              <string>hstem 2159 158</string>
-              <string>hstem 637 150</string>
-              <string>hstem -229 158</string>
-              <string>hstem 1083 349</string>
-              <string>hstem -1179 -21</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr01</string>
-            <key>stems</key>
-            <array>
-              <string>vstem 192 300</string>
-              <string>hstem 1083 349</string>
-              <string>hstem 637 150</string>
-              <string>vstem 942 300</string>
-              <string>hstem -1179 -21</string>
-              <string>hstem -229 158</string>
-              <string>hstem 1829 158</string>
-              <string>hstem 2159 158</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr02</string>
-            <key>stems</key>
-            <array>
-              <string>hstem -1179 -21</string>
-              <string>vstem 786 375</string>
-              <string>hstem -229 158</string>
-              <string>hstem 637 150</string>
-              <string>hstem 1083 349</string>
-              <string>hstem 1829 158</string>
-              <string>hstem 2159 158</string>
-              <string>vstem 192 300</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>9d818434da9f883b015a88f6ed412fc36842552f218d31f80c15440b491ec3b430a87c02a4fd4d58938b989d9e2e80be62357053ce44c4fa67b4a2d17962dc15</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

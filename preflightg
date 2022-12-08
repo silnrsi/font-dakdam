@@ -2,4 +2,7 @@
 # Produce individual UFOs from Glyphs files
 psfglyphs2ufo source/masters/DakdamUpright.glyphs source/masters
 
+psfremovegliflibkeys source/masters/Dakdam-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth
+psfremovegliflibkeys source/masters/Dakdam-Bold.ufo com.schriftgestaltung.Glyphs.originalWidth
+
 ./preflight

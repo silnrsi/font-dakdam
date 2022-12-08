@@ -15,78 +15,50 @@
   <key>guidelines</key>
   <array>
     <dict>
-      <key>angle</key>
-      <integer>0</integer>
       <key>name</key>
       <string>m</string>
-      <key>x</key>
-      <integer>0</integer>
       <key>y</key>
       <integer>250</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>0</integer>
       <key>name</key>
       <string>f1</string>
-      <key>x</key>
-      <integer>0</integer>
       <key>y</key>
       <integer>-788</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>0</integer>
       <key>name</key>
       <string>f2</string>
-      <key>x</key>
-      <integer>0</integer>
       <key>y</key>
       <integer>-150</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>0</integer>
       <key>name</key>
       <string>f3</string>
-      <key>x</key>
-      <integer>0</integer>
       <key>y</key>
       <integer>-150</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>0</integer>
       <key>name</key>
       <string>f4</string>
-      <key>x</key>
-      <integer>0</integer>
       <key>y</key>
       <integer>-713</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>90</integer>
       <key>name</key>
       <string>f5</string>
       <key>x</key>
       <integer>-188</integer>
-      <key>y</key>
-      <integer>0</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>90</integer>
       <key>name</key>
       <string>f6</string>
       <key>x</key>
       <integer>-1238</integer>
-      <key>y</key>
-      <integer>0</integer>
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2022/12/08 10:14:21</string>
+  <string>2022/12/08 10:17:25</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -260,12 +232,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>Dakdam-Bold</string>
   <key>postscriptOtherBlues</key>
   <array>
-    <integer>-437</integer>
-    <integer>-401</integer>
     <integer>-800</integer>
     <integer>-780</integer>
     <integer>-730</integer>
     <integer>-700</integer>
+    <integer>-437</integer>
+    <integer>-401</integer>
     <integer>-160</integer>
     <integer>-125</integer>
     <integer>1730</integer>

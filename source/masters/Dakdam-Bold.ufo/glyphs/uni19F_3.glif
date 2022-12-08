@@ -2,7 +2,7 @@
 <glyph name="uni19F3" format="2">
   <advance width="1840"/>
   <unicode hex="19F3"/>
-  <guideline x="900" y="0" angle="90"/>
+  <guideline x="900"/>
   <outline>
     <contour>
       <point x="170" y="-1094" type="line"/>
@@ -84,48 +84,4 @@
       <point x="590" y="-855"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 170 300</string>
-              <string>hstem -1182 -21</string>
-              <string>hstem 109 131</string>
-              <string>vstem 770 300</string>
-              <string>hstem -1200 -20</string>
-              <string>vstem 1370 300</string>
-              <string>hstem 1608 158</string>
-              <string>hstem 2098 -21</string>
-              <string>hstem 2133 -20</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr01</string>
-            <key>stems</key>
-            <array>
-              <string>vstem 926 375</string>
-              <string>hstem 2098 -21</string>
-              <string>hstem 1608 158</string>
-              <string>hstem 2133 -20</string>
-              <string>vstem 170 300</string>
-              <string>hstem 109 131</string>
-              <string>hstem -1182 -21</string>
-              <string>hstem -1200 -20</string>
-              <string>vstem 1370 300</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>906d6d421301b2495f202e0967deb5cb93caa058acba20a237520f034bc5062ee181b8f374dc9fc4410c0467211a512c14d33fe457f855242688d0c98e85c17e</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

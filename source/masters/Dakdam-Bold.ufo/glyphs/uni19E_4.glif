@@ -2,7 +2,7 @@
 <glyph name="uni19E4" format="2">
   <advance width="1390"/>
   <unicode hex="19E4"/>
-  <guideline x="750" y="0" angle="90"/>
+  <guideline x="750"/>
   <outline>
     <contour>
       <point x="1063" y="1008" type="curve" smooth="yes"/>
@@ -106,44 +106,4 @@
       <point x="786" y="-131" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1008 356</string>
-              <string>hstem 637 161</string>
-              <string>vstem 170 300</string>
-              <string>vstem 842 296</string>
-              <string>hstem 2396 -20</string>
-              <string>hstem -1179 -21</string>
-              <string>hstem -229 158</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr01</string>
-            <key>stems</key>
-            <array>
-              <string>hstem -1179 -21</string>
-              <string>vstem 786 375</string>
-              <string>hstem -229 158</string>
-              <string>hstem 637 161</string>
-              <string>hstem 1008 356</string>
-              <string>hstem 2396 -20</string>
-              <string>vstem 170 300</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1f7132cf18f3ddd25bffb1c9d63e46e77fba0aa1750d543137b8d5e60535a2505a495472543b13a13d5459991424aca772ce346abef74b7b923c4cb36df63de5</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
