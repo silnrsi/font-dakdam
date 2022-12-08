@@ -79,49 +79,4 @@
       <point x="736" y="1706" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -559 -20</string>
-              <string>vstem 520 350</string>
-              <string>hstem -409 -20</string>
-              <string>vstem 132 300</string>
-              <string>hstem 90 150</string>
-              <string>vstem 957 300</string>
-              <string>hstem -1200 94</string>
-              <string>hstem 1608 158</string>
-              <string>hstem 2098 -21</string>
-              <string>hstem 2133 -20</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr01</string>
-            <key>stems</key>
-            <array>
-              <string>vstem 736 375</string>
-              <string>hstem 2098 -21</string>
-              <string>hstem 1608 158</string>
-              <string>hstem 2133 -20</string>
-              <string>hstem -1200 94</string>
-              <string>hstem 90 150</string>
-              <string>hstem -559 -20</string>
-              <string>hstem -409 -20</string>
-              <string>vstem 132 300</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>82e0798ba743a334f165da551a2cabd127c5319295a1ffdc595cefb38c3e5c4612b0185b778efa7dc0a390d1a6b6a3092ad9ba309372cbb1ebd1f34916219457</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="uni19EE" format="2">
   <advance width="2660"/>
   <unicode hex="19EE"/>
-  <guideline x="1275" y="0" angle="90"/>
+  <guideline x="1275"/>
   <outline>
     <contour>
       <point x="2353" y="1008" type="curve" smooth="yes"/>
@@ -154,52 +154,4 @@
       <point x="1356" y="-131" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1008 356</string>
-              <string>hstem 637 161</string>
-              <string>vstem 1460 300</string>
-              <string>vstem 2132 296</string>
-              <string>hstem 2396 -20</string>
-              <string>vstem 520 350</string>
-              <string>vstem 132 300</string>
-              <string>hstem 1927 150</string>
-              <string>vstem 957 300</string>
-              <string>hstem -229 158</string>
-              <string>hstem -1179 -21</string>
-            </array>
-          </dict>
-          <dict>
-            <key>pointTag</key>
-            <string>hr01</string>
-            <key>stems</key>
-            <array>
-              <string>hstem 637 94</string>
-              <string>vstem 957 300</string>
-              <string>hstem 1927 150</string>
-              <string>vstem 132 300</string>
-              <string>hstem -1179 -21</string>
-              <string>vstem 1356 375</string>
-              <string>hstem -229 158</string>
-              <string>hstem 1008 356</string>
-              <string>hstem 2396 -20</string>
-              <string>vstem 520 350</string>
-              <string>vstem 2132 296</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>b49d89867b35ca418eabf4a6ed7401a625506302a13fef06b2e4ff6a11bf70c94a457be74ba2dc5880fec1cd3fc54ee443a81b93d4180e00de244f829160662d</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

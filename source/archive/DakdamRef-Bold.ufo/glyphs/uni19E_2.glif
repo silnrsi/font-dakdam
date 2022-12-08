@@ -2,7 +2,7 @@
 <glyph name="uni19E2" format="2">
   <advance width="1840"/>
   <unicode hex="19E2"/>
-  <guideline x="937" y="0" angle="90"/>
+  <guideline x="937"/>
   <outline>
     <contour>
       <point x="607" y="1213" type="line"/>
@@ -112,33 +112,4 @@
       <point x="1027" y="1452"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -1179 -21</string>
-              <string>hstem -229 158</string>
-              <string>hstem 637 131</string>
-              <string>hstem 1871 -20</string>
-              <string>hstem 2098 -21</string>
-              <string>hstem 2302 105</string>
-              <string>vstem 195 300</string>
-              <string>vstem 607 300</string>
-              <string>vstem 946 375</string>
-              <string>vstem 1357 300</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>bcb37c36952bc966b2e625e8d6114b03976d61e9e1ef726fe053393586b002833b19085ff54fef14e44ae0f0730d1b023a468da02647fa436daefb5c2dc8e12a</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
