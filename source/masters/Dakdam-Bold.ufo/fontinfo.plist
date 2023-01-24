@@ -58,7 +58,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/01/24 17:21:12</string>
+  <string>2023/01/24 17:38:18</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -127,7 +127,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Dakdam Bold: 2022</string>
+  <string>SIL International: Dakdam Bold: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 8.700</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -204,7 +204,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>700</integer>
+  <integer>300</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
