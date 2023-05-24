@@ -5,6 +5,6 @@ psfnormalize -p checkfix=fix source/masters/Dakdam-Regular.ufo
 psfnormalize -p checkfix=fix source/masters/Dakdam-Bold.ufo
 
 # Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters --complex source/DakdamUpright.designspace 
+psfsyncmasters source/DakdamUpright.designspace 
 
 # psfmakewoffmetadata -n Dakdam -i "org.sil.fonts" -o source/Dakdam-WOFF-metadata.xml source/masters/Dakdam-Regular.ufo
