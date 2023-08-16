@@ -1,53 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17CA.ms.narrowhigh" format="2">
+  <anchor x="0" y="300" name="A0"/>
+  <anchor x="20" y="1000" name="_UR"/>
+  <anchor x="0" y="0" name="_def"/>
   <outline>
-    <contour>
-      <point x="-471" y="1846" type="curve" smooth="yes"/>
-      <point x="-434" y="1846"/>
-      <point x="-403" y="1870"/>
-      <point x="-384" y="1894" type="curve" smooth="yes"/>
-      <point x="-360" y="1923"/>
-      <point x="-331" y="1948"/>
-      <point x="-300" y="1948" type="curve" smooth="yes"/>
-      <point x="-251" y="1948"/>
-      <point x="-198" y="1846"/>
-      <point x="-133" y="1846" type="curve" smooth="yes"/>
-      <point x="-52" y="1846"/>
-      <point x="-23" y="1941"/>
-      <point x="8" y="2027" type="curve"/>
-      <point x="-15" y="2017"/>
-      <point x="-39" y="2015"/>
-      <point x="-62" y="2015" type="curve" smooth="yes"/>
-      <point x="-117" y="2015"/>
-      <point x="-200" y="2142"/>
-      <point x="-262" y="2142" type="curve" smooth="yes"/>
-      <point x="-286" y="2142"/>
-      <point x="-315" y="2125"/>
-      <point x="-345" y="2099" type="curve" smooth="yes"/>
-      <point x="-373" y="2074"/>
-      <point x="-396" y="2053"/>
-      <point x="-424" y="2020" type="curve"/>
-      <point x="-483" y="2075"/>
-      <point x="-558" y="2142"/>
-      <point x="-612" y="2142" type="curve" smooth="yes"/>
-      <point x="-696" y="2142"/>
-      <point x="-791" y="1996"/>
-      <point x="-822" y="1924" type="curve" smooth="yes"/>
-      <point x="-825" y="1917"/>
-      <point x="-825" y="1909"/>
-      <point x="-825" y="1903" type="curve" smooth="yes"/>
-      <point x="-825" y="1882"/>
-      <point x="-814" y="1854"/>
-      <point x="-781" y="1842" type="curve"/>
-      <point x="-660" y="1866" type="line"/>
-      <point x="-690" y="1866"/>
-      <point x="-701" y="1885"/>
-      <point x="-701" y="1909" type="curve" smooth="yes"/>
-      <point x="-701" y="1929"/>
-      <point x="-689" y="1948"/>
-      <point x="-673" y="1948" type="curve" smooth="yes"/>
-      <point x="-624" y="1948"/>
-      <point x="-536" y="1846"/>
-    </contour>
+    <component base="uni17CA.narrow" yOffset="290"/>
   </outline>
 </glyph>

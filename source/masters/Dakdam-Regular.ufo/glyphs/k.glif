@@ -2,6 +2,8 @@
 <glyph name="k" format="2">
   <advance width="1078"/>
   <unicode hex="006B"/>
+  <anchor x="520" y="0" name="PB"/>
+  <anchor x="600" y="200" name="def"/>
   <outline>
     <contour>
       <point x="363" y="1471" type="line"/>
@@ -39,7 +41,7 @@
       <point x="949" y="78"/>
       <point x="809" y="254" type="curve" smooth="yes"/>
       <point x="520" y="618" type="line"/>
-      <point x="700" y="775" type="line" smooth="yes"/>
+      <point x="700" y="775" type="line"/>
       <point x="847" y="903"/>
       <point x="906" y="932"/>
       <point x="1037" y="932" type="curve"/>

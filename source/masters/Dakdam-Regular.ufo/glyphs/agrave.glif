@@ -2,9 +2,11 @@
 <glyph name="agrave" format="2">
   <advance width="940"/>
   <unicode hex="00E0"/>
+  <anchor x="520" y="0" name="PB"/>
+  <anchor x="530" y="200" name="def"/>
   <outline>
     <contour>
-      <point x="771" y="734" type="line" smooth="yes"/>
+      <point x="771" y="734" type="line"/>
       <point x="771" y="890"/>
       <point x="688" y="992"/>
       <point x="460" y="992" type="curve" smooth="yes"/>

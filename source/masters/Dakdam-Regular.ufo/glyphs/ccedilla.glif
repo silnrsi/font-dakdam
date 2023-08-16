@@ -2,8 +2,11 @@
 <glyph name="ccedilla" format="2">
   <advance width="950"/>
   <unicode hex="00E7"/>
+  <anchor x="520" y="-200" name="PB"/>
+  <anchor x="560" y="0" name="def"/>
   <outline>
     <contour>
+      <point x="890" y="366" type="curve"/>
       <point x="850" y="382" type="line"/>
       <point x="794" y="243"/>
       <point x="715" y="127"/>
@@ -59,7 +62,6 @@
       <point x="535" y="-19" type="curve"/>
       <point x="712" y="3"/>
       <point x="836" y="144"/>
-      <point x="890" y="366" type="curve"/>
     </contour>
   </outline>
 </glyph>

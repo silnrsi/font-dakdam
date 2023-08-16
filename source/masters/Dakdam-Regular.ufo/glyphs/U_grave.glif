@@ -40,10 +40,10 @@
       <point x="239" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="509" y="1807" type="line"/>
-      <point x="902" y="1508" type="line"/>
-      <point x="962" y="1508" type="line"/>
-      <point x="775" y="1807" type="line"/>
+      <point x="502" y="1857" type="line"/>
+      <point x="895" y="1558" type="line"/>
+      <point x="955" y="1558" type="line"/>
+      <point x="768" y="1857" type="line"/>
     </contour>
   </outline>
 </glyph>

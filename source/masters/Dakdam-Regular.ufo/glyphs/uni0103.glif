@@ -2,9 +2,11 @@
 <glyph name="uni0103" format="2">
   <advance width="941"/>
   <unicode hex="0103"/>
+  <anchor x="0" y="0" name="PB"/>
+  <anchor x="0" y="0" name="def"/>
   <outline>
     <contour>
-      <point x="772" y="735" type="line" smooth="yes"/>
+      <point x="772" y="735" type="line"/>
       <point x="772" y="892"/>
       <point x="690" y="994"/>
       <point x="461" y="994" type="curve" smooth="yes"/>

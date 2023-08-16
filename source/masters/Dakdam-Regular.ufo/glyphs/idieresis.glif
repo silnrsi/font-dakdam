@@ -2,9 +2,11 @@
 <glyph name="idieresis" format="2">
   <advance width="588"/>
   <unicode hex="00EF"/>
+  <anchor x="520" y="0" name="PB"/>
+  <anchor x="440" y="200" name="def"/>
   <outline>
     <contour>
-      <point x="217" y="225" type="line" smooth="yes"/>
+      <point x="217" y="225" type="line"/>
       <point x="217" y="90"/>
       <point x="195" y="37"/>
       <point x="67" y="37" type="curve"/>

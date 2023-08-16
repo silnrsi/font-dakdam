@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1440</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2003-2022 SIL International</string>
+  <string>Copyright (c) 2003-2023 SIL International</string>
   <key>descender</key>
   <integer>-1240</integer>
   <key>familyName</key>
@@ -30,7 +30,7 @@
       <key>name</key>
       <string>f2</string>
       <key>y</key>
-      <integer>-150</integer>
+      <integer>-1238</integer>
     </dict>
     <dict>
       <key>name</key>
@@ -58,7 +58,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/01/24 17:38:18</string>
+  <string>2023/08/08 11:21:35</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -72,7 +72,8 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2003-2022 SIL International with Reserved Font Names "Mondulkiri", "Busra", "Oureang", "Ratanakiri", and "Dakdam".
+  <string>Copyright (c) 2003-2023 SIL International with Reserved Font Names "Mondulkiri", "Busra", "Oureang", "Ratanakiri", and "Dakdam".
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
@@ -129,7 +130,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Dakdam Bold: 2023</string>
   <key>openTypeNameVersion</key>
-  <string>Version 8.700</string>
+  <string>Version 8.700 alpha</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -204,7 +205,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>300</integer>
+  <integer>700</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -215,18 +216,18 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <array>
     <integer>-33</integer>
     <integer>0</integer>
-    <integer>982</integer>
-    <integer>1004</integer>
+    <integer>969</integer>
+    <integer>992</integer>
     <integer>1437</integer>
     <integer>1471</integer>
     <integer>1580</integer>
     <integer>1600</integer>
     <integer>1730</integer>
     <integer>1750</integer>
-    <integer>1790</integer>
-    <integer>1810</integer>
     <integer>1870</integer>
     <integer>1890</integer>
+    <integer>2060</integer>
+    <integer>2090</integer>
   </array>
   <key>postscriptFontName</key>
   <string>Dakdam-Bold</string>
@@ -236,36 +237,38 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>-780</integer>
     <integer>-730</integer>
     <integer>-700</integer>
-    <integer>-437</integer>
-    <integer>-401</integer>
     <integer>-160</integer>
     <integer>-125</integer>
     <integer>1730</integer>
     <integer>1750</integer>
+    <integer>1790</integer>
+    <integer>1810</integer>
   </array>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>202</integer>
-    <integer>131</integer>
-    <integer>243</integer>
-    <integer>220</integer>
-    <integer>202</integer>
-    <integer>187</integer>
-    <integer>175</integer>
-    <integer>164</integer>
-    <integer>153</integer>
-    <integer>142</integer>
+    <integer>113</integer>
+    <integer>125</integer>
+    <integer>137</integer>
+    <integer>147</integer>
+    <integer>157</integer>
+    <integer>102</integer>
+    <integer>92</integer>
+    <integer>81</integer>
+    <integer>167</integer>
+    <integer>70</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>300</integer>
-    <integer>285</integer>
-    <integer>223</integer>
-    <integer>274</integer>
-    <integer>240</integer>
-    <integer>205</integer>
-    <integer>190</integer>
-    <integer>180</integer>
+    <integer>188</integer>
+    <integer>168</integer>
+    <integer>132</integer>
+    <integer>122</integer>
+    <integer>174</integer>
+    <integer>163</integer>
+    <integer>204</integer>
+    <integer>224</integer>
+    <integer>152</integer>
+    <integer>142</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-150</integer>

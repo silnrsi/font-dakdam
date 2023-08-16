@@ -1,103 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17D2178D.low" format="2">
   <advance width="750"/>
-  <anchor x="562" y="-1238" name="L"/>
-  <anchor x="562" y="1440" name="U"/>
+  <anchor x="750" y="-530" name="B1"/>
   <outline>
-    <contour>
-      <point x="262" y="858" type="line"/>
-      <point x="262" y="-1016" type="line" smooth="yes"/>
-      <point x="262" y="-1065"/>
-      <point x="236" y="-1107"/>
-      <point x="187" y="-1107" type="curve" smooth="yes"/>
-      <point x="94" y="-1107"/>
-      <point x="49" y="-1020"/>
-      <point x="-38" y="-998" type="curve"/>
-      <point x="-38" y="-893"/>
-      <point x="-174" y="-788"/>
-      <point x="-305" y="-788" type="curve" smooth="yes"/>
-      <point x="-357" y="-788"/>
-      <point x="-444" y="-832"/>
-      <point x="-489" y="-870" type="curve"/>
-      <point x="-534" y="-832"/>
-      <point x="-624" y="-788"/>
-      <point x="-676" y="-788" type="curve" smooth="yes"/>
-      <point x="-807" y="-788"/>
-      <point x="-939" y="-874"/>
-      <point x="-939" y="-979" type="curve" smooth="yes"/>
-      <point x="-939" y="-1155" type="line"/>
-      <point x="-927" y="-1219"/>
-      <point x="-807" y="-1238"/>
-      <point x="-717" y="-1238" type="curve"/>
-      <point x="-605" y="-1230"/>
-      <point x="-530" y="-1194"/>
-      <point x="-530" y="-1123" type="curve" smooth="yes"/>
-      <point x="-530" y="-1082"/>
-      <point x="-575" y="-1035"/>
-      <point x="-657" y="-1016" type="curve"/>
-      <point x="-657" y="-960" type="line"/>
-      <point x="-620" y="-986"/>
-      <point x="-519" y="-1043"/>
-      <point x="-489" y="-1043" type="curve" smooth="yes"/>
-      <point x="-459" y="-1043"/>
-      <point x="-357" y="-987"/>
-      <point x="-320" y="-961" type="curve"/>
-      <point x="-320" y="-1016" type="line"/>
-      <point x="-402" y="-1035"/>
-      <point x="-451" y="-1082"/>
-      <point x="-451" y="-1123" type="curve" smooth="yes"/>
-      <point x="-451" y="-1194"/>
-      <point x="-372" y="-1230"/>
-      <point x="-260" y="-1238" type="curve"/>
-      <point x="-170" y="-1238"/>
-      <point x="-49" y="-1211"/>
-      <point x="-38" y="-1148" type="curve"/>
-      <point x="-38" y="-1110" type="line"/>
-      <point x="26" y="-1125"/>
-      <point x="75" y="-1238"/>
-      <point x="217" y="-1238" type="curve" smooth="yes"/>
-      <point x="424" y="-1238"/>
-      <point x="562" y="-1140"/>
-      <point x="562" y="-1035" type="curve" smooth="yes"/>
-      <point x="562" y="842" type="line"/>
-    </contour>
-    <contour>
-      <point x="562" y="665" type="line"/>
-      <point x="562" y="930" type="line" smooth="yes"/>
-      <point x="562" y="995"/>
-      <point x="341" y="1094"/>
-      <point x="221" y="1134" type="curve" smooth="yes"/>
-      <point x="219" y="1135"/>
-      <point x="218" y="1136"/>
-      <point x="218" y="1138" type="curve"/>
-      <point x="221" y="1153"/>
-      <point x="228" y="1165"/>
-      <point x="246" y="1177" type="curve" smooth="yes"/>
-      <point x="254" y="1183"/>
-      <point x="264" y="1186"/>
-      <point x="274" y="1186" type="curve" smooth="yes"/>
-      <point x="363" y="1186"/>
-      <point x="427" y="1105"/>
-      <point x="532" y="1105" type="curve" smooth="yes"/>
-      <point x="608" y="1105"/>
-      <point x="660" y="1260"/>
-      <point x="683" y="1346" type="curve"/>
-      <point x="660" y="1336"/>
-      <point x="636" y="1334"/>
-      <point x="613" y="1334" type="curve" smooth="yes"/>
-      <point x="558" y="1334"/>
-      <point x="362" y="1440"/>
-      <point x="290" y="1440" type="curve" smooth="yes"/>
-      <point x="206" y="1440"/>
-      <point x="103" y="1165"/>
-      <point x="78" y="1061" type="curve"/>
-      <point x="78" y="1055"/>
-      <point x="80" y="1050"/>
-      <point x="85" y="1049" type="curve" smooth="yes"/>
-      <point x="190" y="1037"/>
-      <point x="262" y="963"/>
-      <point x="262" y="919" type="curve" smooth="yes"/>
-      <point x="262" y="665" type="line"/>
-    </contour>
+    <component base="_stemSub" xOffset="162" yOffset="-120"/>
+    <component base="_L.ear" xOffset="-7"/>
+    <component base="_subm" xOffset="-989" yOffset="-621"/>
+    <component base="_subdiagonal" xOffset="-271" yOffset="-649"/>
+    <component base="_loopInstroke" yScale="-1" xOffset="-501" yOffset="-1390"/>
+    <component base="_loopInstroke" xScale="-1" yScale="-1" xOffset="-476" yOffset="-1390"/>
+    <component base="_stemMd" xOffset="162" yOffset="-989"/>
   </outline>
 </glyph>

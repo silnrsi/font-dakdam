@@ -5,28 +5,32 @@
 DOCDIR = ["documentation", "web"]
 
 # set the font name and description
-APPNAME = 'Dakdam'
-FAMILY = APPNAME
+APPNAME = 'DakdamTestA'
+sourcefontfamily = "Dakdam"
 DESC_SHORT = "Font family for the Khmer script"
 
 TESTDIR = ["tests"]
 
+opts = preprocess_args({'opt': '--new'})
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
-getufoinfo('source/masters/' + FAMILY  + '-Regular.ufo')
-# BUILDLABEL = 'beta1'
+getufoinfo('source/masters/' + sourcefontfamily  + '-Regular.ufo')
 
 # Set up the FTML tests
 # ftmlTest('tools/ftml-smith.xsl')
 
 # cmds = [cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/instances/${DS:FILENAME_BASE}.ufo'])]
 
-designspace('source/' + FAMILY + 'Upright.designspace',
+designspace('source/' + sourcefontfamily + 'UprightRB.designspace',
     target = "${DS:FILENAME_BASE}.ttf",
 #    target = process("${DS:FILENAME_BASE}.ttf", *cmds),
     params = "--decomposeComponents --removeOverlap",
+    opentype = fea('source/${DS:FILENAME_BASE}.fea',
+        master = 'source/Dakdam_new.feax' if '--new' in opts else 'source/Dakdam.feax',
+        params = '-m source/${DS:FILENAME_BASE}.map'),
 #    woff = woff('web/${DS:FILENAME_BASE}.woff',
 #        metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
 #        cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
 #        ),
+    script = 'khmr',
     pdf = fret(params='-oi')
 )
