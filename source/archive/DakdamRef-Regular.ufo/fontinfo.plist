@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-1240</integer>
   <key>familyName</key>
-  <string>Dakdam</string>
+  <string>DakdamRef</string>
   <key>guidelines</key>
   <array>
     <dict>
@@ -135,11 +135,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Dakdam</string>
+  <string>DakdamRef</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Dakdam Regular: 2023</string>
+  <string>SIL International: DakdamRef Regular: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 8.700</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -241,7 +241,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>2090</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>Dakdam-Regular</string>
+  <string>DakdamRef-Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-800</integer>
@@ -311,7 +311,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <array>
       <dict>
         <key>text</key>
-        <string>Dakdam is a Unicode typeface family that supports languages that use the Khmer script.</string>
+        <string>DakdamRef is a Unicode typeface family that supports languages that use the Khmer script.</string>
       </dict>
     </array>
     <key>url</key>
