@@ -58,7 +58,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/08/08 11:21:35</string>
+  <string>2023/08/24 21:34:04</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -216,7 +216,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <array>
     <integer>-33</integer>
     <integer>0</integer>
-    <integer>969</integer>
+    <integer>970</integer>
     <integer>992</integer>
     <integer>1437</integer>
     <integer>1471</integer>

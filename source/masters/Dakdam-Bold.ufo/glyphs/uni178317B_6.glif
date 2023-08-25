@@ -12,7 +12,6 @@
   <anchor x="2453" y="1236" name="zxc1"/>
   <outline>
     <component base="_L.ear" xOffset="706"/>
-    <component base="_instroke" xOffset="-25"/>
     <component base="_curveShort.extra" xOffset="200"/>
     <component base="_curveShort.extra" xOffset="875"/>
     <component base="_stemMd" xOffset="200" yOffset="289"/>
@@ -20,5 +19,6 @@
     <component base="_stemLg" xOffset="2300"/>
     <component base="_bulgeArch" xOffset="1381"/>
     <component base="_stemMd" xOffset="875" yOffset="210"/>
+    <component base="_stemloop" xScale="-1" yScale="-1" xOffset="663" yOffset="1417"/>
   </outline>
 </glyph>

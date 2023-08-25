@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_mArch2" format="2">
+  <outline>
+    <contour>
+      <point x="325" y="953" type="curve"/>
+      <point x="445" y="927" type="line"/>
+      <point x="495" y="1005" type="line"/>
+      <point x="383" y="1019"/>
+      <point x="308" y="1077"/>
+      <point x="308" y="1147" type="curve" smooth="yes"/>
+      <point x="308" y="1216"/>
+      <point x="378" y="1283"/>
+      <point x="552" y="1283" type="curve" smooth="yes"/>
+      <point x="734" y="1283"/>
+      <point x="933" y="1228"/>
+      <point x="1056" y="1148" type="curve"/>
+      <point x="1212" y="1272"/>
+      <point x="1351" y="1305"/>
+      <point x="1481" y="1305" type="curve" smooth="yes"/>
+      <point x="1633" y="1305"/>
+      <point x="1783" y="1221"/>
+      <point x="1783" y="1165" type="curve" smooth="yes"/>
+      <point x="1783" y="720" type="line"/>
+      <point x="1971" y="720" type="line"/>
+      <point x="1971" y="1183" type="line" smooth="yes"/>
+      <point x="1971" y="1302"/>
+      <point x="1753" y="1441"/>
+      <point x="1493" y="1441" type="curve" smooth="yes"/>
+      <point x="1339" y="1441"/>
+      <point x="1170" y="1384"/>
+      <point x="1023" y="1254" type="curve"/>
+      <point x="1103" y="1252" type="line"/>
+      <point x="892" y="1384"/>
+      <point x="693" y="1441"/>
+      <point x="534" y="1441" type="curve" smooth="yes"/>
+      <point x="318" y="1441"/>
+      <point x="175" y="1336"/>
+      <point x="175" y="1179" type="curve" smooth="yes"/>
+      <point x="175" y="1071"/>
+      <point x="259" y="992"/>
+    </contour>
+  </outline>
+</glyph>

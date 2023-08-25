@@ -176,10 +176,14 @@
   <string>_m.glif</string>
   <key>_mArch</key>
   <string>_mA_rch.glif</string>
+  <key>_mArch2</key>
+  <string>_mA_rch2.glif</string>
   <key>_outstroke</key>
   <string>_outstroke.glif</string>
   <key>_smoke</key>
   <string>_smoke.glif</string>
+  <key>_smoke2</key>
+  <string>_smoke2.glif</string>
   <key>_squirreltail</key>
   <string>_squirreltail.glif</string>
   <key>_stemLg</key>

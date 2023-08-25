@@ -13,9 +13,9 @@
   <outline>
     <component base="_curve" yScale="-1" xOffset="200" yOffset="1124"/>
     <component base="_stemMd" xOffset="950"/>
-    <component base="_instroke" yScale="-1" xOffset="-27" yOffset="1440"/>
     <component base="_stemSm" xOffset="200" yOffset="370"/>
     <component base="_mArch" xOffset="38"/>
     <component base="_stemLg" xOffset="1700"/>
+    <component base="_stemloop" xScale="-1" xOffset="662"/>
   </outline>
 </glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_mArch2" format="2">
+  <advance width="2207"/>
+  <outline>
+    <contour>
+      <point x="346" y="1169" type="curve" smooth="yes"/>
+      <point x="346" y="1192"/>
+      <point x="429" y="1286"/>
+      <point x="472" y="1286" type="curve" smooth="yes"/>
+      <point x="509" y="1286"/>
+      <point x="974" y="1142"/>
+      <point x="1059" y="1142" type="curve" smooth="yes"/>
+      <point x="1112" y="1142"/>
+      <point x="1199" y="1284"/>
+      <point x="1230" y="1284" type="curve" smooth="yes"/>
+      <point x="1276" y="1284"/>
+      <point x="1807" y="1140"/>
+      <point x="1807" y="1091" type="curve" smooth="yes"/>
+      <point x="1807" y="750" type="line"/>
+      <point x="2107" y="750" type="line"/>
+      <point x="2107" y="1166" type="line" smooth="yes"/>
+      <point x="2107" y="1320"/>
+      <point x="1348" y="1518"/>
+      <point x="1296" y="1518" type="curve" smooth="yes"/>
+      <point x="1221" y="1518"/>
+      <point x="1130" y="1376"/>
+      <point x="1106" y="1376" type="curve" smooth="yes"/>
+      <point x="1048" y="1376"/>
+      <point x="592" y="1518"/>
+      <point x="538" y="1518" type="curve" smooth="yes"/>
+      <point x="445" y="1518"/>
+      <point x="100" y="1232"/>
+      <point x="100" y="1125" type="curve" smooth="yes"/>
+      <point x="100" y="1048"/>
+      <point x="181" y="994"/>
+      <point x="307" y="957" type="curve"/>
+      <point x="307" y="935" type="line"/>
+      <point x="607" y="935" type="line"/>
+      <point x="607" y="1051" type="line"/>
+      <point x="420" y="1097"/>
+      <point x="346" y="1134"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

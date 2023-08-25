@@ -11,11 +11,11 @@
   <anchor x="1558" y="1000" name="U_2"/>
   <anchor x="1870" y="1236" name="zxc1"/>
   <outline>
-    <component base="_mArch" xOffset="38"/>
     <component base="_stemloop" xScale="-1" yScale="-1" xOffset="1411" yOffset="980"/>
     <component base="_stemMd" xOffset="200" yOffset="294"/>
     <component base="_stemloop" xScale="-1" xOffset="662" yOffset="23"/>
     <component base="_diagonal" xOffset="439"/>
     <component base="_stemLg" xOffset="1700"/>
+    <component base="_mArch2" xOffset="-7"/>
   </outline>
 </glyph>

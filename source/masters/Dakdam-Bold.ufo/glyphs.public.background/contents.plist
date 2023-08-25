@@ -14,6 +14,10 @@
   <string>_ballI_nstroke.glif</string>
   <key>_bulgeArch</key>
   <string>_bulgeA_rch.glif</string>
+  <key>_deepArch</key>
+  <string>_deepA_rch.glif</string>
+  <key>_deepArch2</key>
+  <string>_deepA_rch2.glif</string>
   <key>_eyelash</key>
   <string>_eyelash.glif</string>
   <key>_eyelash2</key>
@@ -26,12 +30,20 @@
   <string>_m.glif</string>
   <key>_mArch</key>
   <string>_mA_rch.glif</string>
+  <key>_mArch2</key>
+  <string>_mA_rch2.glif</string>
   <key>_outstroke</key>
   <string>_outstroke.glif</string>
+  <key>_smoke</key>
+  <string>_smoke.glif</string>
+  <key>_smoke2</key>
+  <string>_smoke2.glif</string>
   <key>_subL.ear</key>
   <string>_subL_.ear.glif</string>
   <key>_swash</key>
   <string>_swash.glif</string>
+  <key>_topArch</key>
+  <string>_topA_rch.glif</string>
   <key>uni1780.alt</key>
   <string>uni1780.alt.glif</string>
   <key>uni178017B6.alt</key>
