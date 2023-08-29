@@ -4,10 +4,9 @@
   <unicode hex="17AF"/>
   <anchor x="825" y="0" name="def"/>
   <outline>
-    <component base="_instroke" xOffset="8" yOffset="-544"/>
     <component base="_w" xOffset="235"/>
     <component base="_stemSm" xOffset="983" yOffset="433"/>
-    <component base="_stemSm" xOffset="235" yOffset="180"/>
+    <component base="_stemloop" xScale="-1" yScale="-1" xOffset="623" yOffset="895"/>
     <contour>
       <point x="1083" y="862" type="line"/>
       <point x="1271" y="862" type="line"/>
@@ -50,7 +49,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCCCP</string>
+      <string>CCCP</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

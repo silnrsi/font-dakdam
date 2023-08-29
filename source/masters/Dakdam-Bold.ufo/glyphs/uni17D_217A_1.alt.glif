@@ -10,7 +10,7 @@
   <anchor x="-979" y="-870" name="def"/>
   <outline>
     <component base="_subL.ear" xOffset="-627" yOffset="45"/>
-    <component base="_stemMd" xOffset="-588" yOffset="-1119"/>
+    <component base="_stemMd" xOffset="-588" yOffset="-1159"/>
     <contour>
       <point x="-1383" y="-783" type="line" smooth="yes"/>
       <point x="-1383" y="-858"/>

@@ -10,7 +10,6 @@
     <component base="_substemSm" xOffset="-1125" yOffset="-20"/>
     <component base="_subarch" yScale="-1" xOffset="-671" yOffset="-999"/>
     <component base="_subcurve" xOffset="-267" yOffset="-207"/>
-    <component base="_substemSm" xOffset="-317" yOffset="-90"/>
     <component base="_substemSm" xOffset="195" yOffset="-69"/>
     <component base="_subL.ear" xOffset="-346" yOffset="44"/>
     <component base="_stemSub" xOffset="195" yOffset="-120"/>

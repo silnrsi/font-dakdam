@@ -4,6 +4,6 @@
   <anchor x="1437" y="-190" name="NG"/>
   <outline>
     <component base="uni17B1.alt"/>
-    <component base="_R.ear" xScale="0.70107" yScale="0.78697" xOffset="946" yOffset="672"/>
+    <component base="_R.ear" xScale="0.70107" yScale="0.78697" xOffset="956" yOffset="754"/>
   </outline>
 </glyph>

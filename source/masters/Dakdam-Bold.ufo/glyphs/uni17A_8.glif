@@ -6,6 +6,6 @@
   <anchor x="730" y="0" name="def"/>
   <outline>
     <component base="uni17A7"/>
-    <component base="uni17CA" xOffset="1470" yOffset="-165"/>
+    <component base="_smoke" xOffset="-4" yOffset="320"/>
   </outline>
 </glyph>

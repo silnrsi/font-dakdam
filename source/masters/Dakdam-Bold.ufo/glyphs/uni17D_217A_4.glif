@@ -9,7 +9,7 @@
   <anchor x="-920" y="0" name="_NC"/>
   <anchor x="-180" y="0" name="_NG"/>
   <outline>
-    <component base="uni17D217A2" xOffset="-559"/>
+    <component base="uni17D217A2" xOffset="-543"/>
     <contour>
       <point x="-737" y="-205" type="curve"/>
       <point x="-666" y="-268" type="line"/>
