@@ -15,56 +15,92 @@
   <key>guidelines</key>
   <array>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>m</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>250</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f1</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-790</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f2</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-150</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f3</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-175</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f4</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-710</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f5</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-574</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f6</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-1113</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f7</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>-1225</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>f8</string>
+      <key>x</key>
+      <integer>1</integer>
       <key>y</key>
       <integer>1870</integer>
     </dict>
@@ -72,11 +108,11 @@
       <key>name</key>
       <string>f9</string>
       <key>x</key>
-      <integer>-245</integer>
+      <integer>-244</integer>
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/08/30 10:21:26</string>
+  <string>2023/08/30 14:54:19</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
