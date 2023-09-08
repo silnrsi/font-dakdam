@@ -7,7 +7,7 @@
     <component base="_subcurveMed" xOffset="-588" yOffset="-1238"/>
     <component base="_loopInstroke" xOffset="-651" yOffset="-641"/>
     <component base="_stemMd" xOffset="162" yOffset="-1023"/>
-    <component base="_stemSub" xOffset="162" yOffset="-100"/>
+    <component base="_stemSub" xOffset="162" yOffset="-120"/>
     <component base="_eyelash2" xOffset="-33"/>
   </outline>
 </glyph>

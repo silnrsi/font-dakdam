@@ -4,7 +4,7 @@
   <outline>
     <component base="uni17D2179F17B6" xOffset="1500"/>
     <component base="uni1795"/>
-    <component base="uni17C6" xOffset="2251" yOffset="567"/>
-    <component base="uni17CA" xOffset="2249" yOffset="182"/>
+    <component base="uni17C6" xOffset="2251" yOffset="597"/>
+    <component base="uni17CA" xOffset="2249" yOffset="242"/>
   </outline>
 </glyph>

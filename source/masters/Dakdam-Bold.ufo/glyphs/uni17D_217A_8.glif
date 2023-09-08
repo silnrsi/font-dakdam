@@ -13,6 +13,6 @@
   <anchor x="0" y="0" name="_NG"/>
   <outline>
     <component base="uni17D217A7" yOffset="-220"/>
-    <component base="uni17CA.narrow" yScale="0.74677" xOffset="-200" yOffset="-1478"/>
+    <component base="uni17CA.narrow" yScale="0.9068" xOffset="-230" yOffset="-1757"/>
   </outline>
 </glyph>

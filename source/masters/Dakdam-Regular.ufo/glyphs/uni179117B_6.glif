@@ -6,7 +6,7 @@
   <anchor x="2008" y="0" name="D0"/>
   <anchor x="1400" y="0" name="NG"/>
   <anchor x="650" y="0" name="def"/>
-  <anchor x="1561" y="1236" name="zxc1"/>
+  <anchor x="1588" y="1236" name="zxc1"/>
   <outline>
     <component base="uni1791"/>
     <component base="uni17B6" xOffset="1280"/>

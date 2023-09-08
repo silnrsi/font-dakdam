@@ -9,6 +9,7 @@
     <component base="_stemSm" xOffset="162" yOffset="648"/>
     <component base="_curveNarrowforBold" xOffset="725"/>
     <component base="_stemMd" xOffset="762" yOffset="385"/>
-    <component base="_stemMd" xOffset="1362" yOffset="206"/>
+    <component base="_stemSm" xOffset="1362" yOffset="345"/>
+    <component base="_substemTiny" xOffset="1362" yOffset="1271"/>
   </outline>
 </glyph>

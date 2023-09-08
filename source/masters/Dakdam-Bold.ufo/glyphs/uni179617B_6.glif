@@ -5,7 +5,7 @@
   <anchor x="1500" y="0" name="B6C6"/>
   <anchor x="2228" y="0" name="D0"/>
   <anchor x="787" y="0" name="def"/>
-  <anchor x="1820" y="1236" name="zxc1"/>
+  <anchor x="1782" y="1236" name="zxc1"/>
   <outline>
     <component base="uni1796"/>
     <component base="uni17B6" xOffset="1500"/>

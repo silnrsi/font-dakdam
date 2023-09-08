@@ -3,6 +3,8 @@
   <advance width="2213"/>
   <unicode hex="17A4"/>
   <outline>
-    <component base="uni17A217B6"/>
+    <component base="uni17A3"/>
+    <component base="_topArchshort" xOffset="997"/>
+    <component base="_stemLg" xOffset="1624"/>
   </outline>
 </glyph>

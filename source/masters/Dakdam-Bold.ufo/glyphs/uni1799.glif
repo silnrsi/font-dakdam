@@ -8,8 +8,9 @@
     <component base="_L.ear" xOffset="1418"/>
     <component base="_curveShort.extra" xOffset="912"/>
     <component base="_stemSm" xOffset="162" yOffset="321"/>
-    <component base="_stemMd" xOffset="1587" yOffset="206"/>
-    <component base="_stemMd" xOffset="912" yOffset="206"/>
+    <component base="_stemMd" xOffset="912" yOffset="186"/>
+    <component base="_stemSm" xOffset="1587" yOffset="352"/>
+    <component base="_substemTiny" xOffset="1587" yOffset="1271"/>
     <contour>
       <point x="787" y="0" type="curve" smooth="yes"/>
       <point x="1050" y="0"/>
@@ -34,7 +35,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCCCCCCP</string>
+      <string>CCCCCCCCP</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

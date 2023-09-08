@@ -6,8 +6,9 @@
     <component base="_curveNarrowforBold" yScale="-1" xOffset="725" yOffset="1440"/>
     <component base="_curveNarrowforBold" xOffset="125"/>
     <component base="_L.ear" xOffset="-7"/>
-    <component base="_stemMd" xOffset="162" yOffset="210"/>
     <component base="_stemMd" xOffset="762" yOffset="350"/>
     <component base="_stemLg" xOffset="1362"/>
+    <component base="_stemSm" xOffset="162" yOffset="351"/>
+    <component base="_substemTiny" xOffset="162" yOffset="1277"/>
   </outline>
 </glyph>

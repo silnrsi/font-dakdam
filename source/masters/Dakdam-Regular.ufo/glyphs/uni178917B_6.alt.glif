@@ -4,7 +4,7 @@
   <anchor x="2116" y="0" name="B6"/>
   <anchor x="2116" y="0" name="B6C6"/>
   <anchor x="2844" y="0" name="D0"/>
-  <anchor x="2397" y="1236" name="zxc1"/>
+  <anchor x="2424" y="1236" name="zxc1"/>
   <outline>
     <component base="uni1789.alt"/>
     <component base="uni17B6" xOffset="2116"/>

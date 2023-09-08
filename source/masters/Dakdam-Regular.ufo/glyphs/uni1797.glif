@@ -7,7 +7,7 @@
     <component base="_smoke" xOffset="41"/>
     <component base="_curve" yScale="-1" xOffset="235" yOffset="1124"/>
     <component base="_stemMd" xOffset="983"/>
-    <component base="_stemSm" xOffset="235" yOffset="370"/>
     <component base="_stemloop" xScale="-1" xOffset="623"/>
+    <component base="_substemTiny" xOffset="235" yOffset="1120"/>
   </outline>
 </glyph>

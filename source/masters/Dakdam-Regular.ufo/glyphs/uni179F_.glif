@@ -9,8 +9,9 @@
     <component base="_stemloop" xOffset="195"/>
     <component base="_L.ear" xOffset="1222"/>
     <component base="_curveNarrowforBold" xOffset="795"/>
-    <component base="_stemMd" xOffset="1395" yOffset="185"/>
     <component base="_stemSm" xOffset="795" yOffset="280"/>
     <component base="_curveNarrowforBold" yScale="-1" xOffset="195" yOffset="986"/>
+    <component base="_stemSm" xOffset="1395" yOffset="391"/>
+    <component base="_substemTiny" xOffset="1395" yOffset="1317"/>
   </outline>
 </glyph>

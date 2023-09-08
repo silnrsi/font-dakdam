@@ -9,12 +9,12 @@
   <anchor x="20" y="1000" name="UR_2"/>
   <anchor x="1725" y="1000" name="U_1"/>
   <anchor x="2720" y="1000" name="U_2"/>
-  <anchor x="2246" y="1236" name="zxc1"/>
+  <anchor x="2232" y="1236" name="zxc1"/>
   <outline>
     <component base="_stemloop" xOffset="200"/>
     <component base="_stemMd" xOffset="762"/>
     <component base="_stemMd" xOffset="1362"/>
-    <component base="_stemSm" xOffset="162" yOffset="423"/>
+    <component base="_stemSm" xOffset="162" yOffset="413"/>
     <component base="_curveShort" yScale="-1" xOffset="162" yOffset="1123"/>
     <component base="_curveShort" yScale="-1" xOffset="762" yOffset="1119"/>
     <component base="_stemLg" xOffset="2112"/>

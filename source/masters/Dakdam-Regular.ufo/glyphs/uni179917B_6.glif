@@ -9,16 +9,16 @@
   <anchor x="20" y="1000" name="UR_2"/>
   <anchor x="2212" y="1000" name="U_1"/>
   <anchor x="2232" y="1000" name="U_2"/>
-  <anchor x="2283" y="1236" name="zxc1"/>
+  <anchor x="2313" y="1236" name="zxc1"/>
   <outline>
     <component base="_stemloop" yScale="-1" xOffset="195" yOffset="1440"/>
     <component base="_L.ear" xOffset="702"/>
     <component base="_curveShort.extra" xOffset="875"/>
     <component base="_stemSm" xOffset="195" yOffset="321"/>
-    <component base="_stemMd" xOffset="1475" yOffset="172"/>
     <component base="_stemMd" xOffset="875" yOffset="162"/>
     <component base="_bulgeArch" xOffset="1303"/>
     <component base="_stemLg" xOffset="2203"/>
+    <component base="_stemSm" xOffset="1475" yOffset="401"/>
     <contour>
       <point x="729" y="0" type="curve" smooth="yes"/>
       <point x="946" y="0"/>

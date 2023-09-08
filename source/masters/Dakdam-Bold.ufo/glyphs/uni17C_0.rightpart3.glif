@@ -3,7 +3,7 @@
   <advance width="750"/>
   <outline>
     <component base="_R.earLarge" xOffset="-7"/>
-    <component base="_stemLg" xOffset="162" yOffset="-220"/>
+    <component base="_stemLg" xOffset="162" yOffset="-270"/>
     <component base="_stemLg" xOffset="162" yOffset="-1260"/>
     <contour>
       <point x="37" y="-1650" type="curve" smooth="yes"/>

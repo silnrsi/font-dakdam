@@ -9,7 +9,7 @@
   <anchor x="20" y="1000" name="UR_2"/>
   <anchor x="1500" y="1000" name="U_1"/>
   <anchor x="1520" y="1000" name="U_2"/>
-  <anchor x="1818" y="1236" name="zxc1"/>
+  <anchor x="1782" y="1236" name="zxc1"/>
   <outline>
     <component base="_L.ear" xOffset="-7"/>
     <component base="_curve" xOffset="162"/>
@@ -17,6 +17,7 @@
     <component base="_eyelash" xOffset="680" yOffset="-93"/>
     <component base="_stemLg" xOffset="1662"/>
     <component base="_bulgeArch" xOffset="743"/>
-    <component base="_stemMd" xOffset="162" yOffset="206"/>
+    <component base="_stemSm" xOffset="162" yOffset="351"/>
+    <component base="_substemTiny" xOffset="162" yOffset="1277"/>
   </outline>
 </glyph>

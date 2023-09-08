@@ -6,7 +6,7 @@
     <component base="_subcurveMed" xOffset="162" yOffset="-1225"/>
     <component base="_substemSm" xOffset="912" yOffset="-485"/>
     <component base="_substemTiny" xOffset="912" yOffset="-546"/>
-    <component base="_stemSub" xOffset="162" yOffset="-100"/>
+    <component base="_stemSub" xOffset="162" yOffset="-120"/>
     <component base="_stemMd" xOffset="162" yOffset="-1013"/>
   </outline>
 </glyph>

@@ -5,6 +5,6 @@
   <anchor x="-700" y="0" name="_H"/>
   <outline>
     <component base="uni17B7"/>
-    <component base="_R.ear" xScale="0.85738" yScale="0.85738" xOffset="-516" yOffset="584"/>
+    <component base="_R.ear" xScale="0.85738" yScale="0.85738" xOffset="-542" yOffset="613"/>
   </outline>
 </glyph>

@@ -7,7 +7,9 @@
     <component base="_L.ear" xOffset="22"/>
     <component base="_curve" xOffset="195"/>
     <component base="_L.ear" xOffset="770"/>
-    <component base="_stemMd" xOffset="195" yOffset="199"/>
-    <component base="_stemMd" xOffset="943" yOffset="199"/>
+    <component base="_stemSm" xOffset="195" yOffset="411"/>
+    <component base="_substemTiny" xOffset="195" yOffset="1330"/>
+    <component base="_stemSm" xOffset="943" yOffset="411"/>
+    <component base="_substemTiny" xOffset="943" yOffset="1330"/>
   </outline>
 </glyph>

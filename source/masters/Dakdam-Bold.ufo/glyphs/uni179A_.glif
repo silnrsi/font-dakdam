@@ -6,6 +6,6 @@
   <outline>
     <component base="_L.ear" xOffset="31"/>
     <component base="_stemloop" xScale="-1" xOffset="662" yOffset="23"/>
-    <component base="_stemSm" xOffset="200" yOffset="410"/>
+    <component base="_stemSm" xOffset="200" yOffset="400"/>
   </outline>
 </glyph>

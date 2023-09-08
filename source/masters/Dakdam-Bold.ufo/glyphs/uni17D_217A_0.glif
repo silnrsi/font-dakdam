@@ -8,8 +8,8 @@
   <outline>
     <component base="_subL.ear" xOffset="-1433" yOffset="44"/>
     <contour>
-      <point x="-994" y="-433" type="line"/>
-      <point x="-1294" y="-433" type="line"/>
+      <point x="-994" y="-463" type="line"/>
+      <point x="-1294" y="-463" type="line"/>
       <point x="-1294" y="-510" type="line" smooth="yes"/>
       <point x="-1294" y="-615"/>
       <point x="-1157" y="-713"/>
