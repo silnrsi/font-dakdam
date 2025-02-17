@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="2">
+  <advance width="1982"/>
+  <unicode hex="0153"/>
+  <anchor x="1021" y="-110" name="LL"/>
+  <anchor x="1021" y="1350" name="LU"/>
+  <anchor x="520" y="0" name="PB"/>
+  <anchor x="740" y="0" name="def"/>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="801"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

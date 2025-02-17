@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="2">
-  <advance width="1110"/>
+  <advance width="1239"/>
   <unicode hex="0037"/>
+  <anchor x="554" y="-101" name="LL"/>
+  <anchor x="554" y="1605" name="LU"/>
   <outline>
     <contour>
-      <point x="1040" y="1437" type="line"/>
-      <point x="199" y="1437" type="line"/>
-      <point x="67" y="1074" type="line"/>
-      <point x="175" y="1042" type="line"/>
-      <point x="244" y="1166"/>
-      <point x="326" y="1228"/>
-      <point x="447" y="1228" type="curve"/>
-      <point x="786" y="1228" type="line"/>
-      <point x="367" y="-32" type="line"/>
-      <point x="566" y="-32" type="line"/>
-      <point x="1040" y="1381" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="619" y="105" type="line"/>
+      <point x="1156" y="1445" type="line"/>
+      <point x="1156" y="1518" type="line"/>
+      <point x="133" y="1518" type="line"/>
+      <point x="133" y="1022" type="line"/>
+      <point x="238" y="1022" type="line"/>
+      <point x="273" y="1238" type="line"/>
+      <point x="987" y="1238" type="line"/>
+      <point x="987" y="1484" type="line"/>
+      <point x="376" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

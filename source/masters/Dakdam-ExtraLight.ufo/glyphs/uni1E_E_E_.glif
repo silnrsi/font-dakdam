@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EEE" format="2">
+  <advance width="1774"/>
+  <unicode hex="1EEE"/>
+  <anchor x="851" y="-110" name="LL"/>
+  <anchor x="851" y="2102" name="LU"/>
+  <outline>
+    <component base="uni01AF"/>
+    <component base="tildecomb" xOffset="1475" yOffset="395"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

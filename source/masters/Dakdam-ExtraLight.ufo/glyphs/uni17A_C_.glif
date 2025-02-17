@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17AC" format="2">
+  <advance width="1476"/>
+  <unicode hex="17AC"/>
+  <anchor x="763" y="-619" name="LC"/>
+  <anchor x="1231" y="-619" name="LR"/>
+  <anchor x="761" y="1580" name="UC"/>
+  <anchor x="763" y="1580" name="UN"/>
+  <anchor x="1231" y="1580" name="UR"/>
+  <outline>
+    <component base="_swash" xOffset="40"/>
+    <component base="uni1794"/>
+    <contour>
+      <point x="1144" y="-480" type="curve"/>
+      <point x="1037" y="-540" type="line"/>
+      <point x="1087" y="-585"/>
+      <point x="1166" y="-619"/>
+      <point x="1237" y="-619" type="curve" smooth="yes"/>
+      <point x="1299" y="-619"/>
+      <point x="1358" y="-590"/>
+      <point x="1378" y="-506" type="curve"/>
+      <point x="1342" y="-526"/>
+      <point x="1309" y="-535"/>
+      <point x="1277" y="-535" type="curve" smooth="yes"/>
+      <point x="1229" y="-535"/>
+      <point x="1186" y="-515"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

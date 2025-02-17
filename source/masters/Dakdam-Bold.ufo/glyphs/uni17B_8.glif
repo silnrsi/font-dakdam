@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17B8" format="2">
   <unicode hex="17B8"/>
-  <anchor x="0" y="400" name="A0"/>
-  <anchor x="-700" y="0" name="_H"/>
+  <anchor x="-695" y="2283" name="UA"/>
+  <anchor x="-225" y="2283" name="UX"/>
+  <anchor x="-245" y="1580" name="_UR"/>
+  <anchor x="-225" y="1580" name="_UX"/>
   <outline>
     <component base="uni17B7"/>
-    <contour>
-      <point x="-339" y="1740" type="curve"/>
-      <point x="-201" y="1628" type="line"/>
-      <point x="-111" y="1767"/>
-      <point x="-82" y="1863"/>
-      <point x="-82" y="1960" type="curve" smooth="yes"/>
-      <point x="-82" y="2111"/>
-      <point x="-191" y="2235"/>
-      <point x="-326" y="2235" type="curve" smooth="yes"/>
-      <point x="-413" y="2235"/>
-      <point x="-451" y="2186"/>
-      <point x="-451" y="2128" type="curve" smooth="yes"/>
-      <point x="-451" y="2023"/>
-      <point x="-289" y="1998"/>
-      <point x="-289" y="1885" type="curve" smooth="yes"/>
-      <point x="-289" y="1845"/>
-      <point x="-303" y="1815"/>
-    </contour>
+    <component base="_R.ear" xScale="0.85738" yScale="0.85738" xOffset="-516" yOffset="584"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni178817B6" format="2">
+  <advance width="3256"/>
+  <anchor x="1288" y="0" name="LC_1"/>
+  <anchor x="2551" y="0" name="LC_2"/>
+  <anchor x="2283" y="0" name="LR_1"/>
+  <anchor x="3011" y="0" name="LR_2"/>
+  <anchor x="1862" y="1580" name="UC_1"/>
+  <anchor x="2551" y="1580" name="UC_2"/>
+  <anchor x="1288" y="1580" name="UN_1"/>
+  <anchor x="2551" y="1580" name="UN_2"/>
+  <anchor x="2283" y="1580" name="UR_1"/>
+  <anchor x="3011" y="1580" name="UR_2"/>
+  <anchor x="2797" y="1236" name="zxc1"/>
+  <outline>
+    <component base="_L.ear" xOffset="1212"/>
+    <component base="_curveShort.extra" xOffset="1390"/>
+    <component base="_stemMd" xOffset="795" yOffset="329"/>
+    <component base="_stemSm" xOffset="1990" yOffset="376"/>
+    <component base="_stemMd" xOffset="200" yOffset="469"/>
+    <component base="_stemloop" xOffset="200"/>
+    <component base="_bulgeArch" xOffset="1813"/>
+    <component base="_stemLg" xOffset="2665"/>
+    <component base="_curveNarrowforBold" yScale="-1" xOffset="195" yOffset="1440"/>
+    <component base="_curveNarrowforBold" xOffset="790"/>
+    <component base="_stemMd" xOffset="1390" yOffset="199"/>
+  </outline>
+</glyph>

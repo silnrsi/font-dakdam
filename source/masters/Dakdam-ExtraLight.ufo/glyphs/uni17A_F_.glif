@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17AF" format="2">
+  <advance width="1516"/>
+  <unicode hex="17AF"/>
+  <anchor x="801" y="0" name="LC"/>
+  <anchor x="1271" y="0" name="LR"/>
+  <anchor x="801" y="1840" name="UC"/>
+  <anchor x="801" y="1840" name="UN"/>
+  <anchor x="1271" y="1840" name="UR"/>
+  <outline>
+    <component base="_instroke" xOffset="8" yOffset="-544"/>
+    <component base="_w" xOffset="235"/>
+    <component base="_stemSm" xOffset="990" yOffset="433"/>
+    <component base="_stemSm" xOffset="240" yOffset="180"/>
+    <contour>
+      <point x="1090" y="862" type="line"/>
+      <point x="1240" y="862" type="line"/>
+      <point x="1240" y="1233" type="line" smooth="yes"/>
+      <point x="1240" y="1353"/>
+      <point x="1142" y="1440"/>
+      <point x="976" y="1440" type="curve" smooth="yes"/>
+      <point x="792" y="1440"/>
+      <point x="621" y="1327"/>
+      <point x="536" y="1327" type="curve" smooth="yes"/>
+      <point x="511" y="1327"/>
+      <point x="500" y="1339"/>
+      <point x="500" y="1367" type="curve" smooth="yes"/>
+      <point x="500" y="1413"/>
+      <point x="541" y="1522"/>
+      <point x="541" y="1607" type="curve" smooth="yes"/>
+      <point x="541" y="1709"/>
+      <point x="455" y="1743"/>
+      <point x="397" y="1743" type="curve" smooth="yes"/>
+      <point x="352" y="1743"/>
+      <point x="306" y="1731"/>
+      <point x="277" y="1714" type="curve"/>
+      <point x="368" y="1697"/>
+      <point x="394" y="1659"/>
+      <point x="394" y="1607" type="curve" smooth="yes"/>
+      <point x="394" y="1536"/>
+      <point x="345" y="1439"/>
+      <point x="345" y="1337" type="curve" smooth="yes"/>
+      <point x="345" y="1278"/>
+      <point x="385" y="1217"/>
+      <point x="501" y="1217" type="curve" smooth="yes"/>
+      <point x="671" y="1217"/>
+      <point x="790" y="1332"/>
+      <point x="944" y="1332" type="curve" smooth="yes"/>
+      <point x="1040" y="1332"/>
+      <point x="1090" y="1290"/>
+      <point x="1090" y="1196" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCP</string>
+    </dict>
+  </lib>
+</glyph>

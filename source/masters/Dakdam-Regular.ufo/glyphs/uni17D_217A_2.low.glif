@@ -2,10 +2,11 @@
 <glyph name="uni17D217A2.low" format="2">
   <guideline y="-1225"/>
   <guideline x="-145"/>
-  <anchor x="0" y="-525" name="B2"/>
-  <anchor x="0" y="0" name="_B1"/>
-  <anchor x="0" y="0" name="_B2"/>
-  <anchor x="-20" y="0" name="_L"/>
+  <anchor x="-599" y="-1230" name="LA"/>
+  <anchor x="-225" y="-1230" name="LX"/>
+  <anchor x="-599" y="-670" name="_LC"/>
+  <anchor x="-245" y="-670" name="_LR"/>
+  <anchor x="-225" y="-670" name="_LX"/>
   <outline>
     <component base="_subL.ear" xOffset="-562" yOffset="-569"/>
     <component base="_subL.ear" xOffset="-1025" yOffset="-569"/>
@@ -33,7 +34,7 @@
       <point x="-394" y="-1227" type="curve" smooth="yes"/>
       <point x="-319" y="-1227"/>
       <point x="-245" y="-1185"/>
-      <point x="-245" y="-1123" type="curve" smooth="yes"/>
+      <point x="-245" y="-1099" type="curve" smooth="yes"/>
       <point x="-245" y="-1026" type="line"/>
       <point x="-433" y="-976" type="line"/>
     </contour>
@@ -55,7 +56,7 @@
       <point x="-857" y="-1227" type="curve" smooth="yes"/>
       <point x="-782" y="-1227"/>
       <point x="-708" y="-1185"/>
-      <point x="-708" y="-1123" type="curve" smooth="yes"/>
+      <point x="-708" y="-1099" type="curve" smooth="yes"/>
       <point x="-708" y="-1026" type="line"/>
       <point x="-896" y="-976" type="line"/>
     </contour>
@@ -64,8 +65,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
       <string>CCPPP</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

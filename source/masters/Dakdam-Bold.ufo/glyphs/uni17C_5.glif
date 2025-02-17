@@ -4,7 +4,7 @@
   <unicode hex="17C5"/>
   <outline>
     <component base="uni17C4"/>
-    <component base="_R.ear" xOffset="2231"/>
+    <component base="_R.ear" xOffset="2275"/>
   </outline>
   <lib>
     <dict>

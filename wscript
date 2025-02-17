@@ -5,32 +5,34 @@
 DOCDIR = ["documentation", "web"]
 
 # set the font name and description
-APPNAME = 'DakdamTestA'
-sourcefontfamily = "Dakdam"
-DESC_SHORT = "Font family for the Khmer script"
+APPNAME = 'Dakdam'
+FAMILY = APPNAME
 
 TESTDIR = ["tests"]
 
-opts = preprocess_args({'opt': '--new'})
+opts = preprocess_args({'opt': '--nofinalc'})
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
-getufoinfo('source/masters/' + sourcefontfamily  + '-Regular.ufo')
+getufoinfo('source/masters/' + FAMILY  + '-Regular.ufo')
 
 # Set up the FTML tests
 # ftmlTest('tools/ftml-smith.xsl')
 
-# cmds = [cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/instances/${DS:FILENAME_BASE}.ufo'])]
+mparams = ["--ignoreglyphs"]
+if "--nofinalc" not in opts:
+    mparams.append("-D finalc=1")
 
-designspace('source/' + sourcefontfamily + 'UprightRB.designspace',
-    target = "${DS:FILENAME_BASE}.ttf",
-#    target = process("${DS:FILENAME_BASE}.ttf", *cmds),
-    params = "--decomposeComponents --removeOverlap",
+cmds = [cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}')]
+
+designspace('source/' + FAMILY + 'Upright.designspace',
+#    target = "${DS:FILENAME_BASE}.ttf",
+    target = process("${DS:FILENAME_BASE}.ttf", *cmds),
+    params = f"--removeOverlap --compregex ^_",
     opentype = fea('source/${DS:FILENAME_BASE}.fea',
-        master = 'source/Dakdam_new.feax' if '--new' in opts else 'source/Dakdam.feax',
+        master = 'source/Dakdam.feax',
+        make_params = " ".join(mparams),
         params = '-m source/${DS:FILENAME_BASE}.map'),
-#    woff = woff('web/${DS:FILENAME_BASE}.woff',
-#        metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
-#        cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
-#        ),
+    woff = woff('web/${DS:FILENAME_BASE}.woff',
+        metadata=f'../source/dakdam-WOFF-metadata.xml'),
     script = 'khmr',
-    pdf = fret(params='-oi')
+    pdf = fret(params='-oi -r')
 )

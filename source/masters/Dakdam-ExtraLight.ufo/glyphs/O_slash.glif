@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <advance width="1506"/>
+  <unicode hex="00D8"/>
+  <anchor x="764" y="-110" name="LL"/>
+  <anchor x="764" y="1775" name="LU"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="260" y="-113" type="line"/>
+      <point x="1358" y="1718" type="line"/>
+      <point x="1265" y="1771" type="line"/>
+      <point x="167" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

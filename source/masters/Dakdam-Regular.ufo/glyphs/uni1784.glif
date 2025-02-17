@@ -2,11 +2,17 @@
 <glyph name="uni1784" format="2">
   <advance width="1516"/>
   <unicode hex="1784"/>
-  <anchor x="825" y="0" name="def"/>
+  <anchor x="683" y="0" name="LC"/>
+  <anchor x="1271" y="0" name="LR"/>
+  <anchor x="801" y="1840" name="UC"/>
+  <anchor x="683" y="1840" name="UN"/>
+  <anchor x="1271" y="1840" name="UR"/>
+  <anchor x="1271" y="1610" name="URD0"/>
   <outline>
     <component base="_w" xOffset="235"/>
+    <component base="_instroke" xOffset="8" yOffset="-544"/>
     <component base="_stemSm" xOffset="983" yOffset="418"/>
-    <component base="_stemloop" xScale="-1" yScale="-1" xOffset="623" yOffset="896"/>
+    <component base="_stemSm" xOffset="235" yOffset="204"/>
     <contour>
       <point x="755" y="896" type="curve" smooth="yes"/>
       <point x="982" y="896"/>
@@ -67,9 +73,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCCP</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <string>CCCCP</string>
     </dict>
   </lib>
 </glyph>

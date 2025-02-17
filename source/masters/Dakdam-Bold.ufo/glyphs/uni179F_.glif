@@ -2,14 +2,18 @@
 <glyph name="uni179F" format="2">
   <advance width="1950"/>
   <unicode hex="179F"/>
+  <anchor x="1019" y="0" name="LC"/>
+  <anchor x="1762" y="0" name="LR"/>
+  <anchor x="1314" y="1580" name="UC"/>
+  <anchor x="1019" y="1580" name="UN"/>
+  <anchor x="1762" y="1580" name="UR"/>
   <outline>
     <component base="_L.ear" xOffset="293"/>
     <component base="_stemloop" xOffset="200"/>
     <component base="_L.ear" xOffset="1193"/>
     <component base="_curveNarrowforBold" xOffset="725"/>
+    <component base="_stemMd" xOffset="1362" yOffset="209"/>
     <component base="_stemSm" xOffset="762" yOffset="280"/>
     <component base="_curveNarrowforBold" yScale="-1" xOffset="125" yOffset="986"/>
-    <component base="_stemSm" xOffset="1362" yOffset="351"/>
-    <component base="_substemTiny" xOffset="1362" yOffset="1277"/>
   </outline>
 </glyph>

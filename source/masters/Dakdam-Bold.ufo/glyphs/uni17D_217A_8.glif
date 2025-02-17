@@ -3,16 +3,13 @@
   <guideline y="-330"/>
   <guideline x="-188"/>
   <guideline x="-1080"/>
-  <anchor x="0" y="-240" name="B2"/>
-  <anchor x="0" y="680" name="_B1"/>
-  <anchor x="0" y="690" name="_B2"/>
-  <anchor x="0" y="0" name="_D2"/>
-  <anchor x="-20" y="0" name="_L"/>
-  <anchor x="-639" y="0" name="_N"/>
-  <anchor x="-639" y="0" name="_NC"/>
-  <anchor x="0" y="0" name="_NG"/>
+  <anchor x="-734" y="-929" name="LA"/>
+  <anchor x="-225" y="-929" name="LX"/>
+  <anchor x="-734" y="0" name="_LC"/>
+  <anchor x="-245" y="0" name="_LR"/>
+  <anchor x="-225" y="0" name="_LX"/>
   <outline>
     <component base="uni17D217A7" yOffset="-220"/>
-    <component base="uni17CA.narrow" yScale="0.9068" xOffset="-230" yOffset="-1757"/>
+    <component base="uni17CA.narrow" yScale="0.74677" xOffset="-200" yOffset="-1478"/>
   </outline>
 </glyph>

@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17A017B6" format="2">
   <advance width="2700"/>
-  <anchor x="1950" y="0" name="B6"/>
-  <anchor x="1950" y="0" name="B6C6"/>
-  <anchor x="2678" y="0" name="D0"/>
-  <anchor x="2233" y="1236" name="zxc1"/>
+  <anchor x="1007" y="0" name="LC_1"/>
+  <anchor x="1990" y="0" name="LC_2"/>
+  <anchor x="1762" y="0" name="LR_1"/>
+  <anchor x="2512" y="0" name="LR_2"/>
+  <anchor x="1304" y="1580" name="UC_1"/>
+  <anchor x="1990" y="1580" name="UC_2"/>
+  <anchor x="1007" y="1580" name="UN_1"/>
+  <anchor x="1990" y="1580" name="UN_2"/>
+  <anchor x="1762" y="1580" name="UR_1"/>
+  <anchor x="2512" y="1580" name="UR_2"/>
+  <anchor x="2270" y="1236" name="zxc1"/>
   <outline>
     <component base="uni17A0"/>
     <component base="uni17B6" xOffset="1950"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

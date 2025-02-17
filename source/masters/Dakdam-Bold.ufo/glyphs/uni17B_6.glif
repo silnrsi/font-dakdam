@@ -2,10 +2,17 @@
 <glyph name="uni17B6" format="2">
   <advance width="750"/>
   <unicode hex="17B6"/>
-  <anchor x="0" y="0" name="B6"/>
-  <anchor x="0" y="0" name="B6C6"/>
-  <anchor x="728" y="0" name="D0"/>
-  <anchor x="283" y="1236" name="zxc1"/>
+  <anchor x="111" y="0" name="LC_1"/>
+  <anchor x="-138" y="0" name="LC_2"/>
+  <anchor x="505" y="0" name="LR_1"/>
+  <anchor x="505" y="0" name="LR_2"/>
+  <anchor x="35" y="1580" name="UC_1"/>
+  <anchor x="-138" y="1580" name="UC_2"/>
+  <anchor x="111" y="1580" name="UN_1"/>
+  <anchor x="-138" y="1580" name="UN_2"/>
+  <anchor x="505" y="1580" name="UR_1"/>
+  <anchor x="505" y="1580" name="UR_2"/>
+  <anchor x="320" y="1236" name="zxc1"/>
   <outline>
     <component base="_topArch" xOffset="-465"/>
     <component base="_stemLg" xOffset="162"/>

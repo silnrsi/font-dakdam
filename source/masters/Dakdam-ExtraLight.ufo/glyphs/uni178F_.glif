@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni178F" format="2">
+  <advance width="1476"/>
+  <unicode hex="178F"/>
+  <anchor x="769" y="0" name="LC"/>
+  <anchor x="1231" y="0" name="LR"/>
+  <anchor x="761" y="1580" name="UC"/>
+  <anchor x="769" y="1580" name="UN"/>
+  <anchor x="1231" y="1580" name="UR"/>
+  <outline>
+    <component base="_smoke"/>
+    <component base="_curve" yScale="-1" xOffset="195" yOffset="1114"/>
+    <component base="_stemMd" xOffset="945"/>
+    <component base="_stemloop" xOffset="195"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D2178317B6" format="2">
+  <advance width="1456"/>
+  <anchor x="-122" y="-730" name="LC_1"/>
+  <anchor x="749" y="0" name="LC_2"/>
+  <anchor x="485" y="-730" name="LR_1"/>
+  <anchor x="1211" y="0" name="LR_2"/>
+  <anchor x="123" y="1580" name="UC_1"/>
+  <anchor x="749" y="1580" name="UC_2"/>
+  <anchor x="-122" y="1580" name="UN_1"/>
+  <anchor x="749" y="1580" name="UN_2"/>
+  <anchor x="485" y="1580" name="UR_1"/>
+  <anchor x="1211" y="1580" name="UR_2"/>
+  <anchor x="1002" y="1236" name="zxc1"/>
+  <outline>
+    <component base="_stemSub" xOffset="180" yOffset="-120"/>
+    <component base="_loopInstroke" xOffset="-950" yOffset="1"/>
+    <component base="_subcurve" xOffset="-262" yOffset="-207"/>
+    <component base="_subcurve" xOffset="-787" yOffset="-207"/>
+    <component base="_subL.ear" xOffset="-350" yOffset="44"/>
+    <component base="_substemSm" xOffset="-344" yOffset="-90"/>
+    <component base="_substemSm" xOffset="-869" yOffset="-60"/>
+    <component base="_substemSm" xOffset="181" yOffset="-69"/>
+    <component base="_bulgeArch" xOffset="23"/>
+    <component base="_stemLg" xOffset="875"/>
+  </outline>
+</glyph>

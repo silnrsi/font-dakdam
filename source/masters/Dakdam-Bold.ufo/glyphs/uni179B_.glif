@@ -2,6 +2,11 @@
 <glyph name="uni179B" format="2">
   <advance width="1950"/>
   <unicode hex="179B"/>
+  <anchor x="1017" y="0" name="LC"/>
+  <anchor x="1762" y="0" name="LR"/>
+  <anchor x="1240" y="1580" name="UC"/>
+  <anchor x="1017" y="1580" name="UN"/>
+  <anchor x="1762" y="1580" name="UR"/>
   <outline>
     <component base="_curveNarrowforBold" yScale="-1" xOffset="125" yOffset="1440"/>
     <component base="_stemloop" xOffset="200" yOffset="20"/>
@@ -9,7 +14,6 @@
     <component base="_stemSm" xOffset="162" yOffset="648"/>
     <component base="_curveNarrowforBold" xOffset="725"/>
     <component base="_stemMd" xOffset="762" yOffset="385"/>
-    <component base="_stemSm" xOffset="1362" yOffset="345"/>
-    <component base="_substemTiny" xOffset="1362" yOffset="1271"/>
+    <component base="_stemMd" xOffset="1362" yOffset="206"/>
   </outline>
 </glyph>

@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="2">
-  <advance width="1073"/>
+  <advance width="1078"/>
   <unicode hex="221A"/>
+  <guideline x="760" y="1064" angle="258.2286"/>
+  <guideline x="505" y="646" angle="110.7695"/>
   <outline>
     <contour>
-      <point x="1033" y="1267" type="line"/>
-      <point x="1033" y="1382" type="line"/>
-      <point x="850" y="1382" type="line"/>
-      <point x="550" y="289" type="line"/>
-      <point x="292" y="973" type="line"/>
-      <point x="40" y="973" type="line"/>
-      <point x="40" y="834" type="line"/>
-      <point x="183" y="834" type="line"/>
-      <point x="508" y="0" type="line"/>
-      <point x="588" y="0" type="line"/>
-      <point x="931" y="1267" type="line"/>
+      <point x="1116" y="1631" type="line"/>
+      <point x="1116" y="1766" type="line"/>
+      <point x="872" y="1766" type="line"/>
+      <point x="549" y="234" type="line"/>
+      <point x="648" y="237" type="line"/>
+      <point x="400" y="878" type="line"/>
+      <point x="47" y="878" type="line"/>
+      <point x="47" y="773" type="line"/>
+      <point x="217" y="736" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="987" y="1631" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

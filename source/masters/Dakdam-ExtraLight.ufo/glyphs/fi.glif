@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi" format="2">
+  <advance width="1525"/>
+  <unicode hex="FB01"/>
+  <anchor x="1177" y="-110" name="LL"/>
+  <anchor x="1177" y="1809" name="LU"/>
+  <anchor x="1326" y="0" name="PB"/>
+  <anchor x="1266" y="200" name="def"/>
+  <outline>
+    <component base="f"/>
+    <component base="i" xOffset="815"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

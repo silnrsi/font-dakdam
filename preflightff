@@ -1,0 +1,5 @@
+#!/bin/sh
+
+psffixffglifs source/masters/Dakdam-ExtraLight.ufo -p checkfix=fix
+psffixffglifs source/masters/Dakdam-Regular.ufo -p checkfix=fix
+psffixffglifs source/masters/Dakdam-Bold.ufo -p checkfix=fix

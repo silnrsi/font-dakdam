@@ -7,14 +7,16 @@ echo "-----Updating glyph orders in Regular..."
 psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/Dakdam-Regular.ufo
 
 echo "-----Normalizing other weights..."
+psfnormalize -p checkfix=fix source/masters/Dakdam-ExtraLight.ufo
 psfnormalize -p checkfix=fix source/masters/Dakdam-Bold.ufo
 
 #echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -n source/masters/Dakdam-ExtraLight.ufo -p backup=False
 psfbuildcomp -i source/composites.txt -c -n source/masters/Dakdam-Regular.ufo -p backup=False
 psfbuildcomp -i source/composites.txt -c -n source/masters/Dakdam-Bold.ufo -p backup=False
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
-psfsyncmasters source/DakdamUprightRB.designspace 
+psfsyncmasters source/DakdamUpright.designspace 
 
 #echo "-----Updating WOFF metadata..."
-#psfmakewoffmetadata -n Dakdam -i "org.sil.fonts" -o source/Dakdam-WOFF-metadata.xml source/masters/Dakdam-Regular.ufo
+psfmakewoffmetadata -n dakdam -i "org.sil.fonts" -o source/dakdam-WOFF-metadata.xml source/masters/Dakdam-Regular.ufo

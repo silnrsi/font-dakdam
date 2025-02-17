@@ -1,3 +1,3 @@
 #!/bin/sh
 
-psfufo2glyphs source/DakdamUprightRB.designspace source/masters/DakdamUprightRB.glyphs
+psfufo2glyphs source/DakdamUpright.designspace source/masters/DakdamUpright.glyphs

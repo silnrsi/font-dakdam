@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17B3" format="2">
+  <advance width="1358"/>
+  <unicode hex="17B3"/>
+  <anchor x="681" y="-230" name="LC"/>
+  <anchor x="1193" y="-230" name="LR"/>
+  <anchor x="681" y="1940" name="UC"/>
+  <anchor x="681" y="1940" name="UN"/>
+  <anchor x="1193" y="2000" name="UR"/>
+  <outline>
+    <component base="uni17A7"/>
+    <contour>
+      <point x="455" y="1426" type="line"/>
+      <point x="327" y="1448"/>
+      <point x="272" y="1512"/>
+      <point x="272" y="1572" type="curve" smooth="yes"/>
+      <point x="272" y="1632"/>
+      <point x="319" y="1697"/>
+      <point x="413" y="1697" type="curve" smooth="yes"/>
+      <point x="480" y="1697"/>
+      <point x="558" y="1647"/>
+      <point x="630" y="1603" type="curve" smooth="yes"/>
+      <point x="709" y="1555"/>
+      <point x="840" y="1498"/>
+      <point x="932" y="1498" type="curve"/>
+      <point x="1019" y="1738"/>
+      <point x="1055" y="1817"/>
+      <point x="1156" y="1817" type="curve" smooth="yes"/>
+      <point x="1235" y="1817"/>
+      <point x="1277" y="1859"/>
+      <point x="1277" y="1899" type="curve" smooth="yes"/>
+      <point x="1277" y="1939"/>
+      <point x="1244" y="1965"/>
+      <point x="1194" y="1965" type="curve" smooth="yes"/>
+      <point x="1101" y="1965"/>
+      <point x="952" y="1873"/>
+      <point x="860" y="1605" type="curve"/>
+      <point x="960" y="1605" type="line"/>
+      <point x="865" y="1605"/>
+      <point x="788" y="1653"/>
+      <point x="707" y="1704" type="curve" smooth="yes"/>
+      <point x="620" y="1759"/>
+      <point x="527" y="1817"/>
+      <point x="403" y="1817" type="curve" smooth="yes"/>
+      <point x="265" y="1817"/>
+      <point x="152" y="1708"/>
+      <point x="152" y="1591" type="curve" smooth="yes"/>
+      <point x="152" y="1512"/>
+      <point x="205" y="1429"/>
+      <point x="337" y="1376" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17D21788.low" format="2">
   <advance width="750"/>
-  <anchor x="750" y="-530" name="B1"/>
+  <anchor x="-126" y="-1235" name="LC"/>
+  <anchor x="562" y="-1235" name="LR"/>
+  <anchor x="35" y="1580" name="UC"/>
+  <anchor x="388" y="1580" name="UN"/>
+  <anchor x="562" y="1580" name="UR"/>
   <outline>
     <component base="_stemSub" xOffset="162" yOffset="-120"/>
     <component base="_subcurve" xOffset="-386" yOffset="-735"/>
     <component base="_stemMd" xOffset="162" yOffset="-1069"/>
-    <component base="_subL.ear" xOffset="-423" yOffset="-565"/>
+    <component base="_subL.ear" xOffset="-423" yOffset="-578"/>
     <component base="_L.ear" xOffset="-7"/>
     <component base="_loopInstroke" xScale="-1" yScale="-1" xOffset="-753" yOffset="-1389"/>
     <component base="_subarch" xOffset="-1358" yOffset="-483"/>

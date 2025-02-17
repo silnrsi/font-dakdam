@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17A117B6" format="2">
+  <advance width="2558"/>
+  <anchor x="1129" y="-722" name="LC_1"/>
+  <anchor x="1843" y="0" name="LC_2"/>
+  <anchor x="1585" y="-722" name="LR_1"/>
+  <anchor x="2313" y="0" name="LR_2"/>
+  <anchor x="1115" y="1580" name="UC_1"/>
+  <anchor x="1843" y="1580" name="UC_2"/>
+  <anchor x="1129" y="1580" name="UN_1"/>
+  <anchor x="1843" y="1580" name="UN_2"/>
+  <anchor x="1585" y="1580" name="UR_1"/>
+  <anchor x="2313" y="1580" name="UR_2"/>
+  <anchor x="2113" y="1236" name="zxc1"/>
+  <outline>
+    <component base="uni1791"/>
+    <component base="_w" xOffset="547" yOffset="-714"/>
+    <component base="_stemSub" xOffset="1282" yOffset="-100"/>
+    <component base="_ballInstroke" xOffset="452" yOffset="2"/>
+    <component base="_bulgeArch" xOffset="1125"/>
+    <component base="_stemLg" xOffset="1977"/>
+    <component base="_substemSm" xOffset="533" yOffset="-50"/>
+  </outline>
+</glyph>

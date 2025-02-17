@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni179A17C5.right" format="2">
   <advance width="1538"/>
-  <anchor x="808" y="0" name="C6C_1"/>
-  <anchor x="20" y="0" name="C6C_2"/>
-  <anchor x="808" y="0" name="NBB_1"/>
-  <anchor x="-20" y="0" name="NBB_2"/>
-  <anchor x="375" y="0" name="NC_1"/>
-  <anchor x="899" y="0" name="NC_2"/>
-  <anchor x="788" y="0" name="def_1"/>
-  <anchor x="1538" y="0" name="def_2"/>
+  <anchor x="603" y="0" name="LN_1"/>
+  <anchor x="821" y="0" name="LN_2"/>
+  <anchor x="627" y="0" name="LR_1"/>
+  <anchor x="1350" y="0" name="LR_2"/>
+  <anchor x="456" y="1580" name="UC_1"/>
+  <anchor x="821" y="1580" name="UC_2"/>
+  <anchor x="600" y="1580" name="UR_1"/>
+  <anchor x="1350" y="1580" name="UR_2"/>
   <outline>
     <component base="uni179A17B6"/>
-    <component base="_R.ear" xOffset="843"/>
+    <component base="_R.ear" xOffset="884"/>
   </outline>
   <lib>
     <dict>

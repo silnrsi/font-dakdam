@@ -3,7 +3,7 @@
   <advance width="750"/>
   <outline>
     <component base="_L.ear" xOffset="-7"/>
-    <component base="_stemSub" xOffset="162" yOffset="-130"/>
+    <component base="_stemSub" xOffset="162" yOffset="-100"/>
     <component base="_stemMd" xOffset="162" yOffset="-1013"/>
     <component base="_substemSm" xOffset="1051" yOffset="-534"/>
     <contour>
@@ -31,8 +31,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
       <string>CCCCP</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

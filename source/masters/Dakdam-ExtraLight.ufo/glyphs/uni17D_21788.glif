@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D21788" format="2">
+  <advance width="728"/>
+  <guideline x="-1181"/>
+  <anchor x="-124" y="-710" name="LC"/>
+  <anchor x="483" y="-710" name="LR"/>
+  <anchor x="13" y="1580" name="UC"/>
+  <anchor x="388" y="1580" name="UN"/>
+  <anchor x="483" y="1580" name="UR"/>
+  <outline>
+    <component base="_loopInstroke" xScale="-1" yScale="-1" xOffset="-759" yOffset="-861"/>
+    <component base="_substemSm" xOffset="-786" yOffset="-6"/>
+    <component base="_subarch" xOffset="-1159" yOffset="140"/>
+    <component base="_substemSm" xOffset="-1228" yOffset="-20"/>
+    <component base="_subarch" yScale="-1" xOffset="-717" yOffset="-999"/>
+    <component base="_subcurve" xOffset="-262" yOffset="-207"/>
+    <component base="_substemSm" xOffset="-344" yOffset="-69"/>
+    <component base="_substemSm" xOffset="181" yOffset="-69"/>
+    <component base="_subL.ear" xOffset="-350" yOffset="44"/>
+    <component base="_stemSub" xOffset="180" yOffset="-120"/>
+    <component base="_L.ear" xOffset="22"/>
+  </outline>
+</glyph>

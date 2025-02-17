@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni179217B6" format="2">
   <advance width="2250"/>
-  <anchor x="1500" y="0" name="C6_1"/>
-  <anchor x="2250" y="20" name="C6_2"/>
-  <anchor x="1480" y="0" name="L_1"/>
-  <anchor x="2230" y="20" name="L_2"/>
-  <anchor x="1500" y="1000" name="UR_1"/>
-  <anchor x="20" y="1000" name="UR_2"/>
-  <anchor x="1500" y="1000" name="U_1"/>
-  <anchor x="1520" y="1000" name="U_2"/>
-  <anchor x="1781" y="1236" name="zxc1"/>
+  <anchor x="787" y="0" name="LC_1"/>
+  <anchor x="1538" y="0" name="LC_2"/>
+  <anchor x="1312" y="0" name="LR_1"/>
+  <anchor x="2061" y="0" name="LR_2"/>
+  <anchor x="785" y="1580" name="UC_1"/>
+  <anchor x="1538" y="1580" name="UC_2"/>
+  <anchor x="787" y="1580" name="UN_1"/>
+  <anchor x="1538" y="1580" name="UN_2"/>
+  <anchor x="1312" y="1580" name="UR_1"/>
+  <anchor x="2061" y="1580" name="UR_2"/>
+  <anchor x="1818" y="1236" name="zxc1"/>
   <outline>
     <component base="_w" xOffset="162"/>
-    <component base="_stemloop" xScale="-1" yScale="-1" xOffset="1374" yOffset="975"/>
-    <component base="_stemMd" xOffset="162" yOffset="283"/>
+    <component base="_stemloop" xScale="-1" yScale="-1" xOffset="1374" yOffset="957"/>
+    <component base="_stemMd" xOffset="162" yOffset="294"/>
+    <component base="_mArch"/>
     <component base="_stemLg" xOffset="1661"/>
-    <component base="_mArch2" xOffset="-45"/>
   </outline>
 </glyph>

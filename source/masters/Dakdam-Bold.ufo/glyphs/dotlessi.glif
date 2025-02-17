@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="627"/>
+  <advance width="815"/>
   <unicode hex="0131"/>
-  <anchor x="0" y="0" name="PB"/>
-  <anchor x="0" y="0" name="def"/>
+  <anchor x="421" y="-110" name="LL"/>
+  <anchor x="421" y="1350" name="LU"/>
+  <anchor x="52" y="0" name="PB"/>
+  <anchor x="52" y="0" name="def"/>
   <outline>
     <contour>
-      <point x="186" y="238" type="line"/>
-      <point x="186" y="121"/>
-      <point x="165" y="75"/>
-      <point x="40" y="75" type="curve"/>
-      <point x="40" y="0" type="line"/>
-      <point x="587" y="0" type="line"/>
-      <point x="587" y="75" type="line"/>
-      <point x="463" y="75"/>
-      <point x="437" y="121"/>
-      <point x="437" y="238" type="curve"/>
-      <point x="437" y="1004" type="line"/>
-      <point x="334" y="1004" type="line"/>
-      <point x="24" y="863" type="line"/>
-      <point x="52" y="790" type="line"/>
-      <point x="108" y="807"/>
-      <point x="153" y="819"/>
-      <point x="165" y="819" type="curve"/>
-      <point x="186" y="819"/>
-      <point x="186" y="778"/>
-      <point x="186" y="683" type="curve"/>
+      <point x="265" y="1100" type="line"/>
+      <point x="265" y="140" type="line"/>
+      <point x="105" y="105" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="725" y="105" type="line"/>
+      <point x="565" y="140" type="line"/>
+      <point x="565" y="1240" type="line"/>
+      <point x="105" y="1240" type="line"/>
+      <point x="105" y="1135" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

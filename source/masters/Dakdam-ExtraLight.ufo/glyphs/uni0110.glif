@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0110" format="2">
+  <advance width="1503"/>
+  <unicode hex="0110"/>
+  <anchor x="785" y="-110" name="LL"/>
+  <anchor x="785" y="1745" name="LU"/>
+  <outline>
+    <component base="D" xOffset="10"/>
+    <contour>
+      <point x="125" y="923" type="line"/>
+      <point x="125" y="817" type="line"/>
+      <point x="766" y="817" type="line"/>
+      <point x="766" y="923" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

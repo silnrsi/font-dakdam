@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17D217A1.alt" format="2">
-  <anchor x="0" y="-520" name="B2"/>
-  <anchor x="-604" y="-870" name="NG"/>
-  <anchor x="0" y="0" name="_D2"/>
-  <anchor x="-20" y="0" name="_L"/>
-  <anchor x="-910" y="0" name="_N"/>
-  <anchor x="-950" y="0" name="_NC"/>
-  <anchor x="-200" y="0" name="_NG"/>
-  <anchor x="-979" y="-870" name="def"/>
+  <anchor x="-644" y="-1240" name="LA"/>
+  <anchor x="-225" y="-1240" name="LX"/>
+  <anchor x="-644" y="0" name="_LC"/>
+  <anchor x="-245" y="0" name="_LR"/>
+  <anchor x="-225" y="0" name="_LX"/>
   <outline>
     <component base="_subL.ear" xOffset="-627" yOffset="45"/>
-    <component base="_stemMd" xOffset="-588" yOffset="-1159"/>
+    <component base="_stemMd" xOffset="-588" yOffset="-1119"/>
     <contour>
       <point x="-1383" y="-783" type="line" smooth="yes"/>
       <point x="-1383" y="-858"/>

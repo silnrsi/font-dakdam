@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni178E" format="2">
+  <advance width="2528"/>
+  <unicode hex="178E"/>
+  <anchor x="1289" y="0" name="LN"/>
+  <anchor x="2283" y="0" name="LR"/>
+  <anchor x="1889" y="1580" name="UC"/>
+  <anchor x="2283" y="1580" name="UR"/>
+  <outline>
+    <component base="_stemloop" xOffset="200"/>
+    <component base="_stemLg" xOffset="1995"/>
+    <component base="_stemMd" xOffset="795" yOffset="313"/>
+    <component base="_stemSm" xOffset="200" yOffset="612"/>
+    <component base="_wNarrow" xOffset="795"/>
+    <component base="_stemMd" xOffset="1400" yOffset="313"/>
+    <component base="_curveNarrowforBold" yScale="-1" xOffset="195" yOffset="1440"/>
+    <component base="_curveNarrowforBold" yScale="-1" xOffset="1395" yOffset="1440"/>
+  </outline>
+</glyph>

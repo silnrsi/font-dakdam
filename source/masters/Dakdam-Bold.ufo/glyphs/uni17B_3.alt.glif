@@ -3,9 +3,13 @@
   <advance width="1425"/>
   <guideline y="2100"/>
   <guideline x="1283"/>
-  <anchor x="1437" y="-190" name="NG"/>
+  <anchor x="738" y="-230" name="LC"/>
+  <anchor x="1270" y="-230" name="LR"/>
+  <anchor x="738" y="2050" name="UC"/>
+  <anchor x="738" y="2050" name="UN"/>
+  <anchor x="1270" y="2240" name="UR"/>
   <outline>
     <component base="uni17B1.alt"/>
-    <component base="_R.ear" xScale="0.70107" yScale="0.78697" xOffset="927" yOffset="773"/>
+    <component base="_R.ear" xScale="0.70107" yScale="0.78697" xOffset="925" yOffset="690"/>
   </outline>
 </glyph>

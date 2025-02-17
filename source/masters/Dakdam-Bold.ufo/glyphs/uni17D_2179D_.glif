@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni17D2179D" format="2">
-  <anchor x="0" y="0" name="B2"/>
-  <anchor x="-20" y="0" name="_L"/>
-  <anchor x="-639" y="0" name="_N"/>
-  <anchor x="-639" y="0" name="_NC"/>
-  <anchor x="0" y="0" name="_NG"/>
+  <anchor x="-666" y="-713" name="LA"/>
+  <anchor x="-218" y="-713" name="LX"/>
+  <anchor x="-666" y="0" name="_LC"/>
+  <anchor x="-245" y="0" name="_LR"/>
+  <anchor x="-225" y="0" name="_LX"/>
   <outline>
     <component base="uni17D21780"/>
     <component base="_eyelash" xScale="0.7738" yScale="0.7738" xOffset="-734" yOffset="-1062"/>
@@ -29,8 +29,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
       <string>CCP</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

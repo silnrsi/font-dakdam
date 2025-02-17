@@ -2,10 +2,13 @@
 <glyph name="uni179A" format="2">
   <advance width="788"/>
   <unicode hex="179A"/>
-  <anchor x="400" y="0" name="N"/>
+  <anchor x="330" y="0" name="LN"/>
+  <anchor x="600" y="0" name="LR"/>
+  <anchor x="451" y="1580" name="UC"/>
+  <anchor x="766" y="1580" name="UR"/>
   <outline>
     <component base="_L.ear" xOffset="31"/>
     <component base="_stemloop" xScale="-1" xOffset="662" yOffset="23"/>
-    <component base="_stemSm" xOffset="200" yOffset="400"/>
+    <component base="_stemSm" xOffset="200" yOffset="410"/>
   </outline>
 </glyph>

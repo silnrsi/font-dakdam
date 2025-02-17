@@ -7,112 +7,13 @@
   <key>capHeight</key>
   <integer>1440</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2003-2023 SIL International</string>
+  <string>Copyright (c) 2003-2025 SIL Global</string>
   <key>descender</key>
   <integer>-1240</integer>
   <key>familyName</key>
   <string>Dakdam</string>
-  <key>guidelines</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>m</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>250</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f1</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-790</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f2</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-150</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f3</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-175</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f4</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-710</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f5</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-574</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f6</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-1113</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f7</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>-1225</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
-      <string>f8</string>
-      <key>x</key>
-      <integer>1</integer>
-      <key>y</key>
-      <integer>1870</integer>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>f9</string>
-      <key>x</key>
-      <integer>-244</integer>
-    </dict>
-  </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/02/17 14:24:45</string>
+  <string>2025/02/06 10:37:52</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -122,15 +23,15 @@
   <key>openTypeNameDescription</key>
   <string>A font for the Khmer script</string>
   <key>openTypeNameDesigner</key>
-  <string>D. Kanjahn</string>
+  <string>D. Kanjahn, Martin Hosken, Becca Spalinger, Sharon Correll (Latin)</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2003-2023 SIL International with Reserved Font Names "Mondulkiri", "Busra", "Oureang", "Ratanakiri", and "Dakdam".
+  <string>Copyright (c) 2003-2025 SIL Global with Reserved Font Names "Mondulkiri", "Busra", "Oureang", "Ratanakiri", and "Dakdam".
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
+This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
 
 
 -----------------------------------------------------------
@@ -172,9 +73,9 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNameLicenseURL</key>
-  <string>https://scripts.sil.org/OFL</string>
+  <string>https://openfontlicense.org</string>
   <key>openTypeNameManufacturer</key>
-  <string>SIL International</string>
+  <string>SIL Global</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -182,9 +83,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Dakdam Regular: 2025</string>
+  <string>SIL Global: Dakdam Regular: 2025</string>
   <key>openTypeNameVersion</key>
-  <string>Version 8.700 alpha</string>
+  <string>Version 8.950</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -205,7 +106,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2Selection</key>
   <array>
     <integer>7</integer>
-    <integer>8</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>512</integer>
@@ -244,14 +144,18 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>5</integer>
     <integer>6</integer>
     <integer>7</integer>
+    <integer>29</integer>
     <integer>31</integer>
+    <integer>32</integer>
     <integer>33</integer>
     <integer>35</integer>
     <integer>38</integer>
+    <integer>39</integer>
+    <integer>40</integer>
     <integer>45</integer>
-    <integer>46</integer>
     <integer>60</integer>
     <integer>62</integer>
+    <integer>67</integer>
     <integer>69</integer>
     <integer>80</integer>
     <integer>91</integer>
@@ -263,9 +167,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>2500</integer>
+  <integer>2706</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>1240</integer>
+  <integer>1908</integer>
   <key>postscriptBlueValues</key>
   <array>
     <integer>-33</integer>
@@ -330,12 +234,14 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>100</integer>
   <key>styleName</key>
   <string>Regular</string>
+  <key>trademark</key>
+  <string>Dakdam is a trademark of SIL Global.</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
-  <integer>8</integer>
+  <integer>9</integer>
   <key>versionMinor</key>
-  <integer>700</integer>
+  <integer>0</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
@@ -345,6 +251,30 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
         <string>D. Kanjahn</string>
         <key>role</key>
         <string>Designer</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Martin Hosken</string>
+        <key>role</key>
+        <string>OpenType revisions</string>
+        <key>url</key>
+        <string>https://software.sil.org/wstech/</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Becca Spalinger</string>
+        <key>role</key>
+        <string>Design improvements</string>
+        <key>url</key>
+        <string>https://software.sil.org/wstech/</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Sharon Correll</string>
+        <key>role</key>
+        <string>Designer - Latin</string>
+        <key>url</key>
+        <string>https://software.sil.org/wstech/</string>
       </dict>
     </array>
   </dict>
@@ -358,7 +288,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       </dict>
     </array>
     <key>url</key>
-    <string>https://software.sil.org/</string>
+    <string>https://software.sil.org/dakdam</string>
   </dict>
   <key>xHeight</key>
   <integer>970</integer>

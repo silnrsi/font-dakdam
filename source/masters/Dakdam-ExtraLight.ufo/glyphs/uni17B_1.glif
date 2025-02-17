@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17B1" format="2">
+  <advance width="1358"/>
+  <unicode hex="17B1"/>
+  <anchor x="696" y="-230" name="LC"/>
+  <anchor x="1193" y="-230" name="LR"/>
+  <anchor x="696" y="1900" name="UC"/>
+  <anchor x="696" y="1900" name="UN"/>
+  <anchor x="1193" y="1840" name="UR"/>
+  <outline>
+    <component base="uni17A7"/>
+    <contour>
+      <point x="337" y="1376" type="curve"/>
+      <point x="455" y="1426" type="line"/>
+      <point x="319" y="1453"/>
+      <point x="262" y="1522"/>
+      <point x="262" y="1585" type="curve" smooth="yes"/>
+      <point x="262" y="1646"/>
+      <point x="317" y="1700"/>
+      <point x="393" y="1700" type="curve" smooth="yes"/>
+      <point x="463" y="1700"/>
+      <point x="543" y="1659"/>
+      <point x="610" y="1618" type="curve" smooth="yes"/>
+      <point x="689" y="1570"/>
+      <point x="801" y="1493"/>
+      <point x="913" y="1493" type="curve" smooth="yes"/>
+      <point x="1007" y="1493"/>
+      <point x="1092" y="1551"/>
+      <point x="1133" y="1630" type="curve"/>
+      <point x="1075" y="1613"/>
+      <point x="1036" y="1605"/>
+      <point x="960" y="1605" type="curve" smooth="yes"/>
+      <point x="865" y="1605"/>
+      <point x="788" y="1653"/>
+      <point x="707" y="1704" type="curve" smooth="yes"/>
+      <point x="620" y="1759"/>
+      <point x="527" y="1817"/>
+      <point x="403" y="1817" type="curve" smooth="yes"/>
+      <point x="260" y="1817"/>
+      <point x="149" y="1710"/>
+      <point x="149" y="1595" type="curve" smooth="yes"/>
+      <point x="149" y="1514"/>
+      <point x="203" y="1430"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

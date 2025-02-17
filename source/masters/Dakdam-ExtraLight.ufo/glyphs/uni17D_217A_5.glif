@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D217A5" format="2">
+  <anchor x="-639" y="-1025" name="LA"/>
+  <anchor x="-245" y="-1025" name="LX"/>
+  <anchor x="-639" y="0" name="_LC"/>
+  <anchor x="-245" y="0" name="_LR"/>
+  <anchor x="-225" y="0" name="_LX"/>
+  <outline>
+    <component base="uni17D2178F.low" yOffset="200"/>
+    <contour>
+      <point x="-857" y="-661" type="curve"/>
+      <point x="-751" y="-626" type="line"/>
+      <point x="-848" y="-619"/>
+      <point x="-899" y="-564"/>
+      <point x="-899" y="-514" type="curve" smooth="yes"/>
+      <point x="-899" y="-473"/>
+      <point x="-863" y="-437"/>
+      <point x="-789" y="-437" type="curve" smooth="yes"/>
+      <point x="-691" y="-437"/>
+      <point x="-589" y="-541"/>
+      <point x="-467" y="-541" type="curve" smooth="yes"/>
+      <point x="-347" y="-541"/>
+      <point x="-255" y="-457"/>
+      <point x="-255" y="-357" type="curve" smooth="yes"/>
+      <point x="-255" y="-188"/>
+      <point x="-424" y="-126"/>
+      <point x="-479" y="-126" type="curve" smooth="yes"/>
+      <point x="-523" y="-126"/>
+      <point x="-544" y="-148"/>
+      <point x="-544" y="-172" type="curve" smooth="yes"/>
+      <point x="-544" y="-267"/>
+      <point x="-353" y="-246"/>
+      <point x="-353" y="-358" type="curve" smooth="yes"/>
+      <point x="-353" y="-420"/>
+      <point x="-403" y="-443"/>
+      <point x="-462" y="-443" type="curve" smooth="yes"/>
+      <point x="-588" y="-443"/>
+      <point x="-644" y="-338"/>
+      <point x="-804" y="-338" type="curve" smooth="yes"/>
+      <point x="-910" y="-338"/>
+      <point x="-986" y="-420"/>
+      <point x="-986" y="-503" type="curve" smooth="yes"/>
+      <point x="-986" y="-555"/>
+      <point x="-967" y="-605"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

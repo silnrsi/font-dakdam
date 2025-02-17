@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17D21794" format="2">
+  <advance width="728"/>
+  <anchor x="-14" y="-710" name="LC"/>
+  <anchor x="483" y="-710" name="LR"/>
+  <anchor x="13" y="1580" name="UC"/>
+  <anchor x="388" y="1580" name="UN"/>
+  <anchor x="483" y="1580" name="UR"/>
+  <outline>
+    <component base="_L.ear" xOffset="22"/>
+    <component base="_stemSub" xOffset="180" yOffset="-100"/>
+    <component base="_ballInstroke" xScale="-1" xOffset="-145"/>
+    <component base="_wWideforReg" xOffset="-633" yOffset="-710"/>
+    <component base="_substemTiny" xOffset="-595"/>
+  </outline>
+</glyph>

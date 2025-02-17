@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17B0" format="2">
+  <advance width="1476"/>
+  <unicode hex="17B0"/>
+  <anchor x="763" y="-670" name="LC"/>
+  <anchor x="1231" y="-670" name="LR"/>
+  <anchor x="761" y="1580" name="UC"/>
+  <anchor x="763" y="1580" name="UN"/>
+  <anchor x="1231" y="1580" name="UR"/>
+  <outline>
+    <component base="uni1796"/>
+    <contour>
+      <point x="1198" y="53" type="line"/>
+      <point x="1048" y="53" type="line"/>
+      <point x="1048" y="0" type="line" smooth="yes"/>
+      <point x="1048" y="-145"/>
+      <point x="956" y="-179"/>
+      <point x="682" y="-260" type="curve" smooth="yes"/>
+      <point x="652" y="-269"/>
+      <point x="626" y="-277"/>
+      <point x="603" y="-288" type="curve" smooth="yes"/>
+      <point x="483" y="-345"/>
+      <point x="459" y="-410"/>
+      <point x="459" y="-485" type="curve" smooth="yes"/>
+      <point x="459" y="-582"/>
+      <point x="536" y="-670"/>
+      <point x="652" y="-670" type="curve" smooth="yes"/>
+      <point x="793" y="-670"/>
+      <point x="845" y="-551"/>
+      <point x="884" y="-551" type="curve" smooth="yes"/>
+      <point x="908" y="-551"/>
+      <point x="959" y="-607"/>
+      <point x="1024" y="-607" type="curve" smooth="yes"/>
+      <point x="1155" y="-607"/>
+      <point x="1200" y="-442"/>
+      <point x="1210" y="-283" type="curve"/>
+      <point x="1163" y="-291"/>
+      <point x="1121" y="-301"/>
+      <point x="1081" y="-331" type="curve"/>
+      <point x="1077" y="-391"/>
+      <point x="1052" y="-504"/>
+      <point x="1017" y="-504" type="curve" smooth="yes"/>
+      <point x="976" y="-504"/>
+      <point x="930" y="-441"/>
+      <point x="876" y="-441" type="curve" smooth="yes"/>
+      <point x="797" y="-441"/>
+      <point x="750" y="-567"/>
+      <point x="658" y="-567" type="curve" smooth="yes"/>
+      <point x="604" y="-567"/>
+      <point x="577" y="-526"/>
+      <point x="577" y="-483" type="curve" smooth="yes"/>
+      <point x="577" y="-443"/>
+      <point x="599" y="-402"/>
+      <point x="644" y="-386" type="curve" smooth="yes"/>
+      <point x="971" y="-269"/>
+      <point x="1198" y="-243"/>
+      <point x="1198" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

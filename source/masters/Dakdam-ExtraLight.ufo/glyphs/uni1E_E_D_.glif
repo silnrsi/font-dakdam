@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EED" format="2">
+  <advance width="1557"/>
+  <unicode hex="1EED"/>
+  <anchor x="701" y="-110" name="LL"/>
+  <anchor x="701" y="1824" name="LU"/>
+  <anchor x="1296" y="0" name="PA"/>
+  <anchor x="0" y="0" name="PB"/>
+  <anchor x="1296" y="-10" name="_PA"/>
+  <anchor x="1296" y="18" name="_def"/>
+  <anchor x="0" y="0" name="def"/>
+  <outline>
+    <component base="uni01B0"/>
+    <component base="uni0309" xOffset="1325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

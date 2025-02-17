@@ -2,12 +2,16 @@
 <glyph name="uni1797" format="2">
   <advance width="1538"/>
   <unicode hex="1797"/>
-  <anchor x="825" y="0" name="def"/>
+  <anchor x="772" y="0" name="LC"/>
+  <anchor x="1349" y="0" name="LR"/>
+  <anchor x="823" y="1580" name="UC"/>
+  <anchor x="772" y="1580" name="UN"/>
+  <anchor x="1349" y="1580" name="UR"/>
   <outline>
     <component base="_smoke" xOffset="35"/>
     <component base="_curve" yScale="-1" xOffset="200" yOffset="1124"/>
     <component base="_stemMd" xOffset="950"/>
-    <component base="_stemloop" xScale="-1" xOffset="662"/>
-    <component base="_substemTiny" xOffset="200" yOffset="1110"/>
+    <component base="_instroke" yScale="-1" xOffset="-27" yOffset="1440"/>
+    <component base="_stemSm" xOffset="200" yOffset="370"/>
   </outline>
 </glyph>

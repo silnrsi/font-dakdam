@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="2">
-  <advance width="996"/>
+  <advance width="1084"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="936" y="720" type="line"/>
-      <point x="562" y="1440" type="line"/>
-      <point x="433" y="1440" type="line"/>
-      <point x="60" y="720" type="line"/>
-      <point x="433" y="0" type="line"/>
-      <point x="562" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="994" y="720" type="line"/>
+      <point x="610" y="1440" type="line"/>
+      <point x="474" y="1440" type="line"/>
+      <point x="90" y="720" type="line"/>
     </contour>
     <contour>
-      <point x="213" y="720" type="line"/>
-      <point x="498" y="1268" type="line"/>
-      <point x="782" y="720" type="line"/>
-      <point x="498" y="170" type="line"/>
+      <point x="591" y="66" type="line"/>
+      <point x="212" y="795" type="line"/>
+      <point x="212" y="645" type="line"/>
+      <point x="591" y="1374" type="line"/>
+      <point x="493" y="1374" type="line"/>
+      <point x="872" y="645" type="line"/>
+      <point x="872" y="795" type="line"/>
+      <point x="493" y="66" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni179C" format="2">
+  <advance width="768"/>
+  <unicode hex="179C"/>
+  <anchor x="427" y="0" name="LN"/>
+  <anchor x="523" y="0" name="LR"/>
+  <anchor x="427" y="1840" name="UC"/>
+  <anchor x="696" y="1840" name="UR"/>
+  <outline>
+    <component base="_stemloop" xScale="-1" xOffset="590"/>
+    <component base="_stemSm" xOffset="240" yOffset="470"/>
+    <component base="_R.earLarge" xOffset="60"/>
+  </outline>
+</glyph>
